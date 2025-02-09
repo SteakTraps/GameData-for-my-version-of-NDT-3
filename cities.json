@@ -1,0 +1,4270 @@
+{
+    "cities": [
+        {
+            "name": "Phoenix",
+            "state": "Arizona",
+            "stateAbbrev": "AZ",
+            "country": "United States",
+            "population": 1625000,
+            "hdi": 0.85,
+            "coordinates": [33.44804639692806, -112.07382884763126]
+        },
+        {
+            "name": "Denver",
+            "state": "Colorado",
+            "stateAbbrev": "CO",
+            "country": "United States",
+            "population": 711463,
+            "hdi": 0.94,
+            "coordinates": [39.74019513428951, -104.99030676657203]
+        },
+        {
+            "name": "Tucson",
+            "state": "Arizona",
+            "stateAbbrev": "AZ",
+            "country": "United States",
+            "population": 543242,
+            "hdi": 0.9,
+            "coordinates": [32.25370224791275, -110.9734154759764]
+        },
+        {
+            "name": "Miami",
+            "state": "Florida",
+            "stateAbbrev": "FL",
+            "country": "United States",
+            "population": 439890,
+            "hdi": 0.95,
+            "coordinates": [25.76160956342318, -80.19197886382732]
+        },
+        {
+            "name": "Las Vegas",
+            "state": "Nevada",
+            "stateAbbrev": "NV",
+            "country": "United States",
+            "population": 646790,
+            "hdi": 0.84,
+            "coordinates": [36.173815848091984, -115.13878845166381]
+        },
+        {
+            "name": "Oklahoma City",
+            "state": "Oklahoma",
+            "stateAbbrev": "OK",
+            "country": "United States",
+            "population": 687725,
+            "hdi": 0.7,
+            "coordinates": [35.468172853648035, -97.51534496662066]
+        },
+        {
+            "name": "Brownsville",
+            "state": "Texas",
+            "stateAbbrev": "TX",
+            "country": "United States",
+            "population": 191774,
+            "hdi": 0.85,
+            "coordinates": [25.901664322459677, -97.49753314439442]
+        },
+        {
+            "name": "Corpus Christi",
+            "state": "Texas",
+            "stateAbbrev": "TX",
+            "country": "United States",
+            "population": 316239,
+            "hdi": 0.8,
+            "coordinates": [27.799719340500104, -97.3981790793408]
+        },
+        {
+            "name": "Houston",
+            "state": "Texas",
+            "stateAbbrev": "TX",
+            "country": "United States",
+            "population": 2302878,
+            "hdi": 0.94,
+            "coordinates": [29.760025047119033, -95.36962502597683]
+        },
+        {
+            "name": "Galveston",
+            "state": "Texas",
+            "stateAbbrev": "TX",
+            "country": "United States",
+            "population": 53089,
+            "hdi": 0.92,
+            "coordinates": [29.301357921297576, -94.79777063899319]
+        },
+        {
+            "name": "New Orleans",
+            "state": "Louisiana",
+            "stateAbbrev": "LA",
+            "country": "United States",
+            "population": 369749,
+            "hdi": 0.9,
+            "coordinates": [29.94904780329661, -90.0740479247519]
+        },
+        {
+            "name": "Baton Rouge",
+            "state": "Louisiana",
+            "stateAbbrev": "LA",
+            "country": "United States",
+            "population": 221453,
+            "hdi": 0.84,
+            "coordinates": [30.45154502706973, -91.18796705441859]
+        },
+        {
+            "name": "Lafayette",
+            "state": "Louisiana",
+            "stateAbbrev": "LA",
+            "country": "United States",
+            "population": 121389,
+            "hdi": 0.87,
+            "coordinates": [30.223973285022335, -92.02000555057384]
+        },
+        {
+            "name": "Beaumont",
+            "state": "Texas",
+            "stateAbbrev": "TX",
+            "country": "United States",
+            "population": 112089,
+            "hdi": 0.8,
+            "coordinates": [30.079206641437764, -94.13041613372772]
+        },
+        {
+            "name": "Mobile",
+            "state": "Alabama",
+            "stateAbbrev": "AL",
+            "country": "United States",
+            "population": 183289,
+            "hdi": 0.9,
+            "coordinates": [30.695138809576452, -88.03795944550787]
+        },
+        {
+            "name": "Tallahassee",
+            "state": "Florida",
+            "stateAbbrev": "FL",
+            "country": "United States",
+            "population": 201731,
+            "hdi": 0.95,
+            "coordinates": [30.442863447117084, -84.28338539424189]
+        },
+        {
+            "name": "Jacksonville",
+            "state": "Florida",
+            "stateAbbrev": "FL",
+            "country": "United States",
+            "population": 990931,
+            "hdi": 0.76,
+            "coordinates": [30.333766565254503, -81.65622165123946]
+        },
+        {
+            "name": "Orlando",
+            "state": "Florida",
+            "stateAbbrev": "FL",
+            "country": "United States",
+            "population": 302206,
+            "hdi": 0.89,
+            "coordinates": [28.512573765004685, -81.37987645510722]
+        },
+        {
+            "name": "Tampa",
+            "state": "Florida",
+            "stateAbbrev": "FL",
+            "country": "United States",
+            "population": 398173,
+            "hdi": 0.93,
+            "coordinates": [27.94262941524427, -82.44608473193205]
+        },
+        {
+            "name": "St. Petersburg",
+            "state": "Florida",
+            "stateAbbrev": "FL",
+            "country": "United States",
+            "population": 261256,
+            "hdi": 0.89,
+            "coordinates": [27.774801856772775, -82.63538564228243]
+        },
+        {
+            "name": "Clearwater",
+            "state": "Florida",
+            "stateAbbrev": "FL",
+            "country": "United States",
+            "population": 117027,
+            "hdi": 0.84,
+            "coordinates": [27.97235032227863, -82.79873312693393]
+        },
+        {
+            "name": "Lakeland",
+            "state": "Florida",
+            "stateAbbrev": "FL",
+            "country": "United States",
+            "population": 120071,
+            "hdi": 0.88,
+            "coordinates": [28.046514461911478, -81.9500285920695]
+        },
+        {
+            "name": "Pensacola",
+            "state": "Florida",
+            "stateAbbrev": "FL",
+            "country": "United States",
+            "population": 53876,
+            "hdi": 0.83,
+            "coordinates": [30.41672996104868, -87.21856702839594]
+        },
+        {
+            "name": "Brunswick",
+            "state": "Georgia",
+            "stateAbbrev": "GA",
+            "country": "United States",
+            "population": 15159,
+            "hdi": 0.78,
+            "coordinates": [31.159624778361742, -81.49604704189058]
+        },
+        {
+            "name": "Charleston",
+            "state": "South Carolina",
+            "stateAbbrev": "SC",
+            "country": "United States",
+            "population": 153672,
+            "hdi": 0.9,
+            "coordinates": [32.789403827050315, -79.94349221470597]
+        },
+        {
+            "name": "Wilmington",
+            "state": "North Carolina",
+            "stateAbbrev": "NC",
+            "country": "United States",
+            "population": 120324,
+            "hdi": 0.91,
+            "coordinates": [34.20623137728098, -77.88604320560022]
+        },
+        {
+            "name": "Zürich",
+            "state": "",
+            "stateAbbrev": "",
+            "country": "Switzerland",
+            "population": 341730,
+            "hdi": 0.98,
+            "coordinates": [47.374681900843306, 8.541666826957352]
+        },
+        {
+            "name": "Cancún",
+            "state": "Quintana Roo",
+            "stateAbbrev": "QI",
+            "country": "Mexico",
+            "population": 888797,
+            "hdi": 0.76,
+            "coordinates": [21.161910609740946, -86.85152901276138]
+        },
+        {
+            "name": "Merida",
+            "state": "Yucatan",
+            "stateAbbrev": "YU",
+            "country": "Mexico",
+            "population": 1316090,
+            "hdi": 0.76,
+            "coordinates": [20.97116942591282, -89.62243362369776]
+        },
+        {
+            "name": "Port-au Prince",
+            "state": "",
+            "stateAbbrev": "",
+            "country": "Haiti",
+            "population": 2618894,
+            "hdi": 0.55,
+            "coordinates": [18.558229755192173, -72.3151618987741]
+        },
+        {
+            "name": "Oranjestad",
+            "state": "Sint Eustatius",
+            "stateAbbrev": "",
+            "country": "Netherlands",
+            "population": 1598,
+            "hdi": 0.90,
+            "coordinates": [17.488089468929058, -62.97782399168253]
+        },
+        {
+            "name": "Charlotte Amalie",
+            "state": "US Virgin Islands",
+            "stateAbbrev": "",
+            "country": "United States",
+            "population": 18481,
+            "hdi": 0.89,
+            "coordinates": [18.343443522592416, -64.93615820517711]
+        },
+        {
+            "name": "Marigot",
+            "state": "Saint Martin",
+            "stateAbbrev": "",
+            "country": "France",
+            "population": 6000,
+            "hdi": 0.85,
+            "coordinates": [18.067736159066282, -63.080927986567296]
+        },
+        {
+            "name": "Basseterre",
+            "state": "Saint Peter Basseterre",
+            "stateAbbrev": "",
+            "country": "St. Kitts and Nevis",
+            "population": 14000,
+            "hdi": 0.8,
+            "coordinates": [17.29723506159882, -62.723160405056184]
+        },
+        {
+            "name": "St. Johns",
+            "state": "Saint John",
+            "stateAbbrev": "",
+            "country": "Antigua and Barbuda",
+            "population": 22219,
+            "hdi": 0.79,
+            "coordinates": [17.12940113611193, -61.840909990784375]
+        },
+        {
+            "name": "Pointe-à-Pitre",
+            "state": "Pointe-à-Pitre",
+            "stateAbbrev": "",
+            "country": "France",
+            "population": 16343,
+            "hdi": 0.85,
+            "coordinates": [16.23642411946152, -61.54166454126283]
+        },
+        {
+            "name": "Roseau",
+            "state": "Saint George",
+            "stateAbbrev": "",
+            "country": "Dominica",
+            "population": 14725,
+            "hdi": 0.74,
+            "coordinates": [15.301401983117998, -61.38419653706104]
+        },
+        {
+            "name": "Fort-de-France",
+            "state": "Fort-de-France",
+            "stateAbbrev": "",
+            "country": "France",
+            "population": 74921,
+            "hdi": 0.94,
+            "coordinates": [14.604337825815355, -61.06951131451838]
+        },
+        {
+            "name": "Castries",
+            "state": "Castries",
+            "stateAbbrev": "",
+            "country": "Saint Lucia",
+            "population": 20000,
+            "hdi": 0.71,
+            "coordinates": [14.011017140438101, -60.989517117722436]
+        },
+        {
+            "name": "Bridgetown",
+            "state": "Saint Michael",
+            "stateAbbrev": "",
+            "country": "Barbados",
+            "population": 110000,
+            "hdi": 0.79,
+            "coordinates": [13.098779012262762, -59.61279303075591]
+        },
+        {
+            "name": "Kingstown",
+            "state": "St. George",
+            "stateAbbrev": "",
+            "country": "St Vincent And The Grenadines",
+            "population": 16500,
+            "hdi": 0.76,
+            "coordinates": [13.15549333422444, -61.226238214629475]
+        },
+        {
+            "name": "St. Petersburg",
+            "state": "St. Petersburg",
+            "stateAbbrev": "SPb",
+            "country": "Russia",
+            "population": 5600000,
+            "hdi": 0.918,
+            "coordinates": [59.93239475536908, 30.361202279562395]
+        },
+        {
+            "name": "Moscow",
+            "state": "Moscow",
+            "stateAbbrev": "MSK",
+            "country": "Russia",
+            "population": 13010112,
+            "hdi": 0.940,
+            "coordinates": [55.75586445533307, 37.61684485384861]
+        },
+        {
+            "name": "Petropavlovsk-Kamchatsky",
+            "state": "Kamchatka Krai",
+            "stateAbbrev": "KK",
+            "country": "Russia",
+            "population": 179780,
+            "hdi": 0.838,
+            "coordinates": [53.058899981639584, 158.63541152481804]
+        },
+        {
+            "name": "Vladivostok",
+            "state": "Primorsky Krai",
+            "stateAbbrev": "PK",
+            "country": "Russia",
+            "population": 597237,
+            "hdi": 0.836,
+            "coordinates": [43.12873403071479, 131.91946617730025]
+        },
+        {
+            "name": "Irkutsk",
+            "state": "Irkutsk Oblast",
+            "stateAbbrev": "IO",
+            "country": "Russia",
+            "population": 623869,
+            "hdi": 0.852,
+            "coordinates": [52.285953373545624, 104.31249991928917]
+        },
+        {
+            "name": "Yekaterinburg",
+            "state": "Sverdlovsk Oblast",
+            "stateAbbrev": "SO",
+            "country": "Russia",
+            "population": 1495066,
+            "hdi": 0.864,
+            "coordinates": [56.83020764087959, 60.613905399797794]
+        },
+        {
+            "name": "Sevastopol",
+            "state": "Sevastopol",
+            "stateAbbrev": "SL",
+            "country": "Russia",
+            "population": 547820,
+            "hdi": 0.832,
+            "coordinates": [44.60612365705007, 33.51494630107737]
+        },
+        {
+            "name": "Kherson",
+            "state": "Kherson Oblast",
+            "stateAbbrev": "KO",
+            "country": "Russia/Ukraine",
+            "population": 279131,
+            "hdi": 0.832,
+            "coordinates": [46.6391580812989, 32.61646268137413]
+        },
+        {
+            "name": "Manchester",
+            "state": "England",
+            "stateAbbrev": "ENG",
+            "country": "United Kingdom",
+            "population": 549853,
+            "hdi": 0.914,
+            "coordinates": [53.47871688605632, -2.2474591185958888]
+        },
+        {
+            "name": "London",
+            "state": "England",
+            "stateAbbrev": "ENG",
+            "country": "United Kingdom",
+            "population": 14800000,
+            "hdi": 0.973,
+            "coordinates": [51.507565224150014, -0.10638035123778519]
+        },
+        {
+            "name": "Glasgow",
+            "state": "Scotland",
+            "stateAbbrev": "SCT",
+            "country": "United Kingdom",
+            "population": 1861315,
+            "hdi": 0.921,
+            "coordinates": [55.85743868443112, -4.2491191527967445]
+        },
+        {
+            "name": "Chattanooga",
+            "state": "Tennessee",
+            "stateAbbrev": "TN",
+            "country": "United States",
+            "population": 562647,
+            "hdi": 0.895,
+            "coordinates": [35.03899811692095, -85.29812463436676]
+        },
+        {
+            "name": "Nashville",
+            "state": "Tennessee",
+            "stateAbbrev": "TN",
+            "country": "United States",
+            "population": 2072283,
+            "hdi": 0.895,
+            "coordinates": [36.16195556572133, -86.78165144247343]
+        },
+        {
+            "name": "Knoxville",
+            "state": "Tennessee",
+            "stateAbbrev": "TN",
+            "country": "United States",
+            "population": 1096961,
+            "hdi": 0.895,
+            "coordinates": [35.98057822553712, -83.92852833918941]
+        },
+        {
+            "name": "Hull",
+            "state": "England",
+            "stateAbbrev": "",
+            "country": "United Kingdom",
+            "population": 266423,
+            "hdi": 0.93,
+            "coordinates": [53.7570753337258, -0.3278230045990585]
+        },
+        {
+            "name": "Dublin",
+            "state": "Leinster",
+            "stateAbbrev": "",
+            "country": "Ireland",
+            "population": 544107,
+            "hdi": 0.94,
+            "coordinates": [53.3472728114541, -6.26501794751519]
+        },
+        {
+            "name": "Havana",
+            "state": "Havana",
+            "stateAbbrev": "",
+            "country": "Cuba",
+            "population": 2130000,
+            "hdi": 0.76,
+            "coordinates": [23.113973073055316, -82.36621593490322] 
+        },
+        {
+            "name": "Camaguey",
+            "state": "Camagüey",
+            "stateAbbrev": "",
+            "country": "Cuba",
+            "population": 306152,
+            "hdi": 0.76,
+            "coordinates": [21.384243374322015, -77.90705384011893] 
+        },
+        {
+            "name": "Santiago de Cuba",
+            "state": "Santiago de Cuba",
+            "stateAbbrev": "",
+            "country": "Cuba",
+            "population": 433498,
+            "hdi": 0.76,
+            "coordinates": [20.02335001920656, -75.83127601329876] 
+        },
+        {
+            "name": "Santo Domingo",
+            "state": "Santo Domingo",
+            "stateAbbrev": "",
+            "country": "Dominican Republic",
+            "population": 4579356,
+            "hdi": 0.76,
+            "coordinates": [18.462641880251606, -69.93601688177951]
+        },
+        {
+            "name": "San Juan",
+            "state": "Puerto Rico",
+            "stateAbbrev": "PR",
+            "country": "United States",
+            "population": 340903,
+            "hdi": 0.84,
+            "coordinates": [18.432204694534825, -66.09814394201267]
+        },
+        {
+            "name": "Ponce",
+            "state": "Puerto Rico",
+            "stateAbbrev": "PR",
+            "country": "United States",
+            "population": 137491,
+            "hdi": 0.84,
+            "coordinates": [18.010176948685466, -66.61253088988207]
+        },
+        {
+            "name": "Nassau",
+            "state": "New Providence",
+            "stateAbbrev": "",
+            "country": "Bahamas",
+            "population": 266100,
+            "hdi": 0.82,
+            "coordinates": [25.046451490505834, -77.34779903908459]
+        },
+        {
+            "name": "Freeport",
+            "state": "West Grand Bahama",
+            "stateAbbrev": "",
+            "country": "Bahamas",
+            "population": 26914,
+            "hdi": 0.82,
+            "coordinates": [26.53354900765378, -78.64380668690586]
+        },
+        {
+            "name": "Cockburn Town",
+            "state": "Turks and Caicos Islands",
+            "stateAbbrev": "",
+            "country": "United Kingdom",
+            "population": 3700,
+            "hdi": 0.87,
+            "coordinates": [21.467804285027754, -71.13726558931634]
+        },
+        {
+            "name": "Kingston",
+            "state": "St. Andrew",
+            "stateAbbrev": "",
+            "country": "Jamaica",
+            "population": 1243000,
+            "hdi": 0.71,
+            "coordinates": [18.01760069151215, -76.80701616483385]
+        },
+        {
+            "name": "Montego Bay",
+            "state": "St. James",
+            "stateAbbrev": "",
+            "country": "Jamaica",
+            "population": 427891,
+            "hdi": 0.71,
+            "coordinates": [18.469178523776634, -77.91576948291288]
+        },
+        {
+            "name": "George Town",
+            "state": "Cayman Islands",
+            "stateAbbrev": "",
+            "country": "United Kingdom",
+            "population": 427891,
+            "hdi": 0.87,
+            "coordinates": [19.29593783817226, -81.38070827620538]
+        },
+        {
+            "name": "San Andrés",
+            "state": "San Andrés",
+            "stateAbbrev": "",
+            "country": "Colombia",
+            "population": 67912,
+            "hdi": 0.75,
+            "coordinates": [12.580964649826939, -81.70184957686136]
+        },
+        {
+            "name": "Oranjestad",
+            "state": "Aruba",
+            "stateAbbrev": "",
+            "country": "Netherlands",
+            "population": 28658,
+            "hdi": 0.87,
+            "coordinates": [12.52297182545941, -70.03584164334644]
+        },
+        {
+            "name": "Willemstad",
+            "state": "Curaçao",
+            "stateAbbrev": "",
+            "country": "Netherlands",
+            "population": 136660,
+            "hdi": 0.87,
+            "coordinates": [12.107345397483632, -68.93142829215645]
+        },
+        {
+            "name": "Key West",
+            "state": "Florida",
+            "stateAbbrev": "FL",
+            "country": "United States",
+            "population": 26444,
+            "hdi": 0.91,
+            "coordinates": [24.554295323591845, -81.78190220604809]
+        },
+        {
+            "name": "Port of Spain",
+            "state": "Trinidad",
+            "stateAbbrev": "",
+            "country": "Trinidad & Tobago",
+            "population": 81142,
+            "hdi": 0.81,
+            "coordinates": [10.666713315157363, -61.5104175399365]
+        },
+        {
+            "name": "Chaguanas",
+            "state": "Chaguanas",
+            "stateAbbrev": "",
+            "country": "Trinidad & Tobago",
+            "population": 101297,
+            "hdi": 0.81,
+            "coordinates": [10.516831358859562, -61.41099303644685]
+        },
+        {
+            "name": "Philadelphia",
+            "state": "Pennsylvania",
+            "stateAbbrev": "PA",
+            "country": "United States",
+            "population": 5696125,
+            "hdi": 0.92,
+            "coordinates": [39.95183138672318, -75.16634323883736]
+        },
+        {
+            "name": "New York City",
+            "state": "New York",
+            "stateAbbrev": "NY",
+            "country": "United States",
+            "population": 19426449,
+            "hdi": 0.94,
+            "coordinates": [40.7097166174018, -74.00787767277025]
+        },
+        {
+            "name": "Baltimore",
+            "state": "Maryland",
+            "stateAbbrev": "MD",
+            "country": "United States",
+            "population": 2212038,
+            "hdi": 0.94,
+            "coordinates": [39.289872106297395, -76.61229357130466]
+        },
+        {
+            "name": "Washington D.C.",
+            "state": "District of Columbia",
+            "stateAbbrev": "DC",
+            "country": "United States",
+            "population": 689545,
+            "hdi": 0.94,
+            "coordinates": [38.896845438959204, -77.02231577598843]
+        },
+        {
+            "name": "Richmond",
+            "state": "Virginia",
+            "stateAbbrev": "VA",
+            "country": "United States",
+            "population": 1339182,
+            "hdi": 0.93,
+            "coordinates": [37.54075335906825, -77.43583936214671]
+        },
+        {
+            "name": "Norfolk",
+            "state": "Virginia",
+            "stateAbbrev": "VA",
+            "country": "United States",
+            "population": 1725246,
+            "hdi": 0.93,
+            "coordinates": [36.85067640525063, -76.28685952052291]
+        },
+        {
+            "name": "Boston",
+            "state": "Massachusetts",
+            "stateAbbrev": "MA",
+            "country": "United States",
+            "population": 4382009,
+            "hdi": 0.95,
+            "coordinates": [42.36142874374173, -71.06148946370504]
+        },
+        {
+            "name": "Providence",
+            "state": "Rhode Island",
+            "stateAbbrev": "RI",
+            "country": "United States",
+            "population": 1285806,
+            "hdi": 0.92,
+            "coordinates": [41.82551923550077, -71.41867760393286]
+        },
+        {
+            "name": "Portland",
+            "state": "Maine",
+            "stateAbbrev": "ME",
+            "country": "United States",
+            "population": 205356,
+            "hdi": 0.92,
+            "coordinates": [43.6600632542098, -70.25612566220748]
+        },
+        {
+            "name": "Bangor",
+            "state": "Maine",
+            "stateAbbrev": "ME",
+            "country": "United States",
+            "population": 61210,
+            "hdi": 0.92,
+            "coordinates": [44.80003029918657, -68.77196971527718]
+        },
+        {
+            "name": "Halifax",
+            "state": "Nova Scotia",
+            "stateAbbrev": "NS",
+            "country": "Canada",
+            "population": 465703,
+            "hdi": 0.91,
+            "coordinates": [44.671464227053015, -63.58913608668473]
+        },
+        {
+            "name": "Sydney",
+            "state": "Nova Scotia",
+            "stateAbbrev": "NS",
+            "country": "Canada",
+            "population": 30960,
+            "hdi": 0.91,
+            "coordinates": [46.136537999893314, -60.191929525114595]
+        },
+        {
+            "name": "St. John's",
+            "state": "Newfoundland & Labrador",
+            "stateAbbrev": "NL",
+            "country": "Canada",
+            "population": 30960,
+            "hdi": 0.90,
+            "coordinates": [47.552780317106794, -52.73581451575603]
+        },
+        {
+            "name": "Praia",
+            "state": "Praia",
+            "stateAbbrev": "",
+            "country": "Cape Verde",
+            "population": 159050,
+            "hdi": 0.66,
+            "coordinates": [14.919218835434174, -23.508162093685286]
+        },
+        {
+            "name": "Mexico City",
+            "state": "Federal District",
+            "stateAbbrev": "",
+            "country": "Mexico",
+            "population": 21804515,
+            "hdi": 0.81,
+            "coordinates": [19.439968927266673, -99.1274374816992]
+        },
+        {
+            "name": "Guadalajara",
+            "state": "Jalisco",
+            "stateAbbrev": "",
+            "country": "Mexico",
+            "population": 5286542,
+            "hdi": 0.76,
+            "coordinates": [20.67620306681962, -103.34728877250716]
+        },
+        {
+            "name": "Acapulco",
+            "state": "Guerrero",
+            "stateAbbrev": "",
+            "country": "Mexico",
+            "population": 852662,
+            "hdi": 0.69,
+            "coordinates": [16.863811332305755, -99.88267099097999]
+        },
+        {
+            "name": "Monterrey",
+            "state": "Nuevo León",
+            "stateAbbrev": "",
+            "country": "Mexico",
+            "population": 5341171,
+            "hdi": 0.80,
+            "coordinates": [25.68575117467227, -100.31172890128971]
+        },
+        {
+            "name": "San Diego",
+            "state": "California",
+            "stateAbbrev": "CA",
+            "country": "United States",
+            "population": 3070300,
+            "hdi": 0.93,
+            "coordinates": [32.7171863517969, -117.15974945528814]
+        },
+        {
+            "name": "Cabo San Lucas",
+            "state": "Baja California Sur",
+            "stateAbbrev": "",
+            "country": "Mexico",
+            "population": 351111,
+            "hdi": 0.78,
+            "coordinates": [22.896457666098474, -109.9170108280096]
+        },
+        {
+            "name": "Puerto Vallarta",
+            "state": "Jalisco",
+            "stateAbbrev": "",
+            "country": "Mexico",
+            "population": 479471,
+            "hdi": 0.77,
+            "coordinates": [20.663290163413013, -105.21581625257049]
+        },
+        {
+            "name": "Matamoros",
+            "state": "Tamaulipas",
+            "stateAbbrev": "",
+            "country": "Mexico",
+            "population": 1387985,
+            "hdi": 0.77,
+            "coordinates": [25.86897072898417, -97.50368463194621]
+        },
+        {
+            "name": "Mazatlán",
+            "state": "Sinaloa",
+            "stateAbbrev": "",
+            "country": "Mexico",
+            "population": 502547,
+            "hdi": 0.78,
+            "coordinates": [23.250705224175803, -106.41263404665412]
+        },
+        {
+            "name": "Hilo",
+            "state": "Hawaii",
+            "stateAbbrev": "HI",
+            "country": "United States",
+            "population": 44186,
+            "hdi": 0.94,
+            "coordinates": [19.721447625698122, -155.08509946975275]
+        },
+        {
+            "name": "Honolulu",
+            "state": "Hawaii",
+            "stateAbbrev": "HI",
+            "country": "United States",
+            "population": 1016508,
+            "hdi": 0.94,
+            "coordinates": [21.310509616982, -157.85947047687594]
+        },
+        {
+            "name": "Manila",
+            "state": "Metro Manila",
+            "stateAbbrev": "",
+            "country": "Philippines",
+            "population": 13484482,
+            "hdi": 0.71,
+            "coordinates": [14.59992610907044, 120.97986691402494]
+        },
+        {
+            "name": "Davao City",
+            "state": "Davao",
+            "stateAbbrev": "",
+            "country": "Philippines",
+            "population": 2770000,
+            "hdi": 0.71,
+            "coordinates": [7.073441998650671, 125.6163252452452]
+        },
+        {
+            "name": "Cebu City",
+            "state": "Cebu",
+            "stateAbbrev": "",
+            "country": "Philippines",
+            "population": 2454000,
+            "hdi": 0.71,
+            "coordinates": [10.315980677179455, 123.90106904998233]
+        },
+        {
+            "name": "Hong Kong",
+            "state": "Hong Kong",
+            "stateAbbrev": "",
+            "country": "China",
+            "population": 7500000,
+            "hdi": 0.96,
+            "coordinates": [22.319824792447708, 114.17490222633273]
+        },
+        {
+            "name": "Macau",
+            "state": "Macau",
+            "stateAbbrev": "",
+            "country": "China",
+            "population": 672800,
+            "hdi": 0.92,
+            "coordinates": [22.199277540739864, 113.54490972483967]
+        },
+        {
+            "name": "Tokyo",
+            "state": "Tokyo",
+            "stateAbbrev": "",
+            "country": "Japan",
+            "population": 39105000,
+            "hdi": 0.95,
+            "coordinates": [35.69044858348485, 139.77680613537055]
+        },
+        {
+            "name": "Taipei",
+            "state": "Taipei",
+            "stateAbbrev": "",
+            "country": "Taiwan",
+            "population": 9078000,
+            "hdi": 0.93,
+            "coordinates": [25.026285163032828, 121.56290081416357]
+        },
+        {
+            "name": "Cape Coral",
+            "state": "Florida",
+            "stateAbbrev": "FL",
+            "country": "United States",
+            "population": 599242,
+            "hdi": 0.95,
+            "coordinates": [26.564681132816006, -81.9460816316696]
+        },
+        {
+            "name": "Andros Town",
+            "state": "Bahamas",
+            "stateAbbrev": "",
+            "country": "Bahamas",
+            "population": 59,
+            "hdi": 0.8,
+            "coordinates": [24.704658399742083, -77.78549028611594]
+        },
+        {
+            "name": "Mars Bay Settlement",
+            "state": "Bahamas",
+            "stateAbbrev": "",
+            "country": "Bahamas",
+            "population": 88,
+            "hdi": 0.81,
+            "coordinates": [23.868167014538802, -77.51639003481657]
+        },
+        {
+            "name": "Congo Town",
+            "state": "Bahamas",
+            "stateAbbrev": "",
+            "country": "Bahamas",
+            "population": 90,
+            "hdi": 0.81,
+            "coordinates": [24.15977539992686, -77.58363182609081]
+        },
+        {
+            "name": "Black Point",
+            "state": "Bahamas",
+            "stateAbbrev": "",
+            "country": "Bahamas",
+            "population": 412,
+            "hdi": 0.83,
+            "coordinates": [24.08099700070789, -76.39830239673473]
+        },
+        {
+            "name": "Matthew Town",
+            "state": "Bahamas",
+            "stateAbbrev": "",
+            "country": "Bahamas",
+            "population": 430,
+            "hdi": 0.83,
+            "coordinates": [20.951140279823722, -73.6745590360705]
+        },
+        {
+            "name": "Betsy Bay Settlement",
+            "state": "Bahamas",
+            "stateAbbrev": "",
+            "country": "Bahamas",
+            "population": 44,
+            "hdi": 0.81,
+            "coordinates": [22.41940909957326, -73.1340917730254]
+        },
+        {
+            "name": "George Town",
+            "state": "Bahamas",
+            "stateAbbrev": "",
+            "country": "Bahamas",
+            "population": 2488,
+            "hdi": 0.83,
+            "coordinates": [22.706487872728832, -73.93516452893859]
+        },
+        {
+            "name": "Elbow Cay",
+            "state": "Bahamas",
+            "stateAbbrev": "",
+            "country": "Bahamas",
+            "population": 300,
+            "hdi": 0.81,
+            "coordinates": [26.523627702208362, -76.96842466059412]
+        },
+        {
+            "name": "Holguin",
+            "state": "",
+            "stateAbbrev": "",
+            "country": "Cuba",
+            "population": 294965,
+            "hdi": 0.74,
+            "coordinates": [20.886510197065828, -76.25865498052562]
+        },
+        {
+            "name": "Santa Clara",
+            "state": "",
+            "stateAbbrev": "",
+            "country": "Cuba",
+            "population": 216142,
+            "hdi": 0.74,
+            "coordinates": [22.40555476412992, -79.96609997729631]
+        },
+        {
+            "name": "Cienfuegos",
+            "state": "",
+            "stateAbbrev": "",
+            "country": "Cuba",
+            "population": 150736,
+            "hdi": 0.76,
+            "coordinates": [22.14363937608299, -80.44049854118464]
+        },
+        {
+            "name": "Taichung City",
+            "state": "Taichung",
+            "stateAbbrev": "",
+            "country": "Taiwan",
+            "population": 2635000,
+            "hdi": 0.93,
+            "coordinates": [24.163033912557708, 120.67400369031779]
+        },
+        {
+            "name": "Kaohsiung City",
+            "state": "Koahsiung",
+            "stateAbbrev": "",
+            "country": "Taiwan",
+            "population": 2565000,
+            "hdi": 0.93,
+            "coordinates": [22.62470742709879, 120.30173200522815]
+        },
+        {
+            "name": "Taitung City",
+            "state": "Taitung",
+            "stateAbbrev": "",
+            "country": "Taiwan",
+            "population": 2565000,
+            "hdi": 0.93,
+            "coordinates": [22.761005862495672, 121.14330320877558]
+        },
+        {
+            "name": "Hualien City",
+            "state": "Hualien",
+            "stateAbbrev": "",
+            "country": "Taiwan",
+            "population": 99458,
+            "hdi": 0.93,
+            "coordinates": [23.984100053775116, 121.59711049001555]
+        },
+        {
+            "name": "Yilan City",
+            "state": "Yilan",
+            "stateAbbrev": "",
+            "country": "Taiwan",
+            "population": 95019,
+            "hdi": 0.93,
+            "coordinates": [24.760026214231516, 121.7541712089672]
+        },
+        {
+            "name": "Chiayi City",
+            "state": "Chiayi",
+            "stateAbbrev": "",
+            "country": "Taiwan",
+            "population": 2565000,
+            "hdi": 0.93,
+            "coordinates": [23.480790648927016, 120.44885565102076]
+        },
+        {
+            "name": "Bayamón",
+            "state": "Puerto Rico",
+            "stateAbbrev": "PR",
+            "country": "United States",
+            "population": 185171,
+            "hdi": 0.84,
+            "coordinates": [18.368883032941707, -66.16409955813111]
+        },
+        {
+            "name": "Caguas",
+            "state": "Puerto Rico",
+            "stateAbbrev": "PR",
+            "country": "United States",
+            "population": 127244,
+            "hdi": 0.84,
+            "coordinates": [18.238454791206287, -66.03531802539162]
+        },
+        {
+            "name": "Arecibo",
+            "state": "Puerto Rico",
+            "stateAbbrev": "PR",
+            "country": "United States",
+            "population": 87754,
+            "hdi": 0.84,
+            "coordinates": [18.45982353351391, -66.7437463776623]
+        },
+        {
+            "name": "Mayagüez",
+            "state": "Puerto Rico",
+            "stateAbbrev": "PR",
+            "country": "United States",
+            "population": 73077,
+            "hdi": 0.84,
+            "coordinates": [18.201578820502213, -67.14471926118878]
+        },
+        {
+            "name": "Aguadilla",
+            "state": "Puerto Rico",
+            "stateAbbrev": "PR",
+            "country": "United States",
+            "population": 55101,
+            "hdi": 0.84,
+            "coordinates": [18.433108438189112, -67.15388434388241]
+        },
+        {
+            "name": "Santiago",
+            "state": "Santiago Province",
+            "stateAbbrev": "",
+            "country": "Dominican Republic",
+            "population": 771748,
+            "hdi": 0.76,
+            "coordinates": [19.47416231953756, -70.6941151891787]
+        },
+        {
+            "name": "Puerto Plata",
+            "state": "Puerto Plata",
+            "stateAbbrev": "",
+            "country": "Dominican Republic",
+            "population": 329419,
+            "hdi": 0.76,
+            "coordinates": [19.780738489764477, -70.68786641660871]
+        },
+        {
+            "name": "La Vega",
+            "state": "La Vega",
+            "stateAbbrev": "",
+            "country": "Dominican Republic",
+            "population": 202864,
+            "hdi": 0.76,
+            "coordinates": [19.221496167952537, -70.52641903144143]
+        },
+        {
+            "name": "San Pedro de Macorís",
+            "state": "San Pedro de Macorís",
+            "stateAbbrev": "",
+            "country": "Dominican Republic",
+            "population": 217523,
+            "hdi": 0.76,
+            "coordinates": [18.462909559424965, -69.30413826857381]
+        },
+        {
+            "name": "La Romana",
+            "state": "La Romana",
+            "stateAbbrev": "",
+            "country": "Dominican Republic",
+            "population": 250000,
+            "hdi": 0.76,
+            "coordinates": [18.433788866642136, -68.9672616289907]
+        },
+        {
+            "name": "Gonaïves",
+            "state": "Artibonite",
+            "stateAbbrev": "",
+            "country": "Haiti",
+            "population": 300000,
+            "hdi": 0.55,
+            "coordinates": [19.453545917803957, -72.68198581916127]
+        },
+        {
+            "name": "Tegucigalpa",
+            "state": "Francisco Morazán",
+            "stateAbbrev": "",
+            "country": "Honduras",
+            "population": 1326460,
+            "hdi": 0.62,
+            "coordinates": [14.064709149182832, -87.16876632628116]
+        },
+        {
+            "name": "San Pedro Sula",
+            "state": "Cortés",
+            "stateAbbrev": "",
+            "country": "Honduras",
+            "population": 834883,
+            "hdi": 0.62,
+            "coordinates": [15.50510708825073, -88.0216165592557]
+        },
+        {
+            "name": "La Ceiba",
+            "state": "Atlántida",
+            "stateAbbrev": "",
+            "country": "Honduras",
+            "population": 232696,
+            "hdi": 0.62,
+            "coordinates": [15.773386764280207, -86.79118761822454]
+        },
+        {
+            "name": "Tela",
+            "state": "Atlántida",
+            "stateAbbrev": "",
+            "country": "Honduras",
+            "population": 110225,
+            "hdi": 0.62,
+            "coordinates": [15.777916803918785, -87.4644276441344]
+        },
+        {
+            "name": "Tocoa",
+            "state": "Colón",
+            "stateAbbrev": "",
+            "country": "Honduras",
+            "population": 111972,
+            "hdi": 0.62,
+            "coordinates": [15.657585868460517, -85.99875110430806]
+        },
+        {
+            "name": "Puerto Lempira",
+            "state": "Gracias a Dios",
+            "stateAbbrev": "",
+            "country": "Honduras",
+            "population": 61626,
+            "hdi": 0.62,
+            "coordinates": [15.263156843131068, -83.77878218780904]
+        },
+        {
+            "name": "Belize City",
+            "state": "Belize",
+            "stateAbbrev": "",
+            "country": "Belize",
+            "population": 61461,
+            "hdi": 0.7,
+            "coordinates": [17.503259442160257, -88.19494402041228]
+        },
+        {
+            "name": "Belmopan",
+            "state": "Cayo",
+            "stateAbbrev": "",
+            "country": "Belize",
+            "population": 13381,
+            "hdi": 0.7,
+            "coordinates": [17.251107552059736, -88.76116248892404]
+        },
+        {
+            "name": "Orange Walk Town",
+            "state": "Orange Walk",
+            "stateAbbrev": "",
+            "country": "Belize",
+            "population": 25767,
+            "hdi": 0.7,
+            "coordinates": [18.08533233241455, -88.56850433132287]
+        },
+        {
+            "name": "San Pedro Town",
+            "state": "Belize",
+            "stateAbbrev": "",
+            "country": "Belize",
+            "population": 17429,
+            "hdi": 0.7,
+            "coordinates": [17.921764327514392, -87.96117396291466]
+        },
+        {
+            "name": "Corozal Town",
+            "state": "Corozal",
+            "stateAbbrev": "",
+            "country": "Belize",
+            "population": 13502,
+            "hdi": 0.7,
+            "coordinates": [18.39676241256038, -88.39326953671258]
+        },
+        {
+            "name": "Chetumal",
+            "state": "Quintana Roo",
+            "stateAbbrev": "QI",
+            "country": "Mexico",
+            "population": 169028,
+            "hdi": 0.76,
+            "coordinates": [18.49930416290748, -88.29674422597736]
+        },
+        {
+            "name": "Sochi",
+            "state": "Krasnodarsky Krai",
+            "stateAbbrev": "",
+            "country": "Russia",
+            "population": 466000,
+            "hdi": 0.840,
+            "coordinates": [43.60117694382596, 39.73540762086746]
+        },
+        {
+            "name": "Krasnodar",
+            "state": "Krasnodarsky Krai",
+            "stateAbbrev": "",
+            "country": "Russia",
+            "population": 1728678,
+            "hdi": 0.840,
+            "coordinates": [45.039507379638934, 38.98739705315364]
+        },
+        {
+            "name": "Krasnodar",
+            "state": "Krasnodarsky Krai",
+            "stateAbbrev": "",
+            "country": "Russia",
+            "population": 1728678,
+            "hdi": 0.840,
+            "coordinates": [45.039507379638934, 38.98739705315364]
+        },
+        {
+            "name": "Rostov-on-Don",
+            "state": "Rostov Oblast",
+            "stateAbbrev": "",
+            "country": "Russia",
+            "population": 1115000,
+            "hdi": 0.826,
+            "coordinates": [47.23785912193875, 39.67681540490911]
+        },
+        {
+            "name": "Kazan",
+            "state": "Tatarstan",
+            "stateAbbrev": "",
+            "country": "Russia",
+            "population": 1243500,
+            "hdi": 0.867,
+            "coordinates": [55.78535408258429, 49.12273253380063]
+        },
+        {
+            "name": "Murmansk",
+            "state": "Murmansk Oblast",
+            "stateAbbrev": "",
+            "country": "Russia",
+            "population": 267422,
+            "hdi": 0.823,
+            "coordinates": [68.96427007142823, 33.08953992800133]
+        },
+        {
+            "name": "Chelyabinsk",
+            "state": "Chelyabinsk Oblast",
+            "stateAbbrev": "",
+            "country": "Russia",
+            "population": 1202371,
+            "hdi": 0.826,
+            "coordinates": [55.16506315533124, 61.43301555723001]
+        },
+        {
+            "name": "Omsk",
+            "state": "Omsk Oblast",
+            "stateAbbrev": "",
+            "country": "Russia",
+            "population": 1108367,
+            "hdi": 0.829,
+            "coordinates": [54.967018826156895, 73.393117191873]
+        },
+        {
+            "name": "Novosibirsk",
+            "state": "Novosibirsk Oblast",
+            "stateAbbrev": "",
+            "country": "Russia",
+            "population": 1567000,
+            "hdi": 0.862,
+            "coordinates": [54.994294818174886, 82.89515083900568]
+        },
+        {
+            "name": "Panamá",
+            "state": "Panamá",
+            "stateAbbrev": "",
+            "country": "Panamá",
+            "population": 1086990,
+            "hdi": 0.820,
+            "coordinates": [9.029843662785995, -79.50465071208454]
+        },
+        {
+            "name": "David",
+            "state": "Chiriquí",
+            "stateAbbrev": "",
+            "country": "Panamá",
+            "population": 82907,
+            "hdi": 0.890,
+            "coordinates": [8.419360131497895, -82.43138774295679]
+        },
+        {
+            "name": "La Chorrera",
+            "state": "Panamá Oeste",
+            "stateAbbrev": "",
+            "country": "Panamá",
+            "population": 161470,
+            "hdi": 0.890,
+            "coordinates": [8.880137902465396, -79.78335429741433]
+        },
+        {
+            "name": "Colón",
+            "state": "Colón",
+            "stateAbbrev": "",
+            "country": "Panamá",
+            "population": 241817,
+            "hdi": 0.850,
+            "coordinates": [9.35331463615277, -79.8976459002857]
+        },
+        {
+            "name": "Santiago de Veraguas",
+            "state": "Veraguas",
+            "stateAbbrev": "",
+            "country": "Panamá",
+            "population": 101027,
+            "hdi": 0.830,
+            "coordinates": [8.100704861229543, -80.97730468762994]
+        },
+        {
+            "name": "Bocas del Toro",
+            "state": "Bocas del Toro",
+            "stateAbbrev": "",
+            "country": "Panamá",
+            "population": 159228,
+            "hdi": 0.719,
+            "coordinates": [9.340729901212292, -82.24311110981272]
+        },
+        {
+            "name": "Las Tablas",
+            "state": "Los Santos",
+            "stateAbbrev": "",
+            "country": "Panamá",
+            "population": 9255,
+            "hdi": 0.719,
+            "coordinates": [7.7667212546122055, -80.27483331377431]
+        },
+        {
+            "name": "San José",
+            "state": "San José",
+            "stateAbbrev": "",
+            "country": "Costa Rica",
+            "population": 2158898,
+            "hdi": 0.828,
+            "coordinates": [9.933683173475343, -84.09892642643452]
+        },
+        {
+            "name": "Quepos",
+            "state": "Puntarenas",
+            "stateAbbrev": "",
+            "country": "Costa Rica",
+            "population": 19858,
+            "hdi": 0.828,
+            "coordinates": [9.43195850021463, -84.16193128285062]
+        },
+        {
+            "name": "Liberia",
+            "state": "Guanacaste",
+            "stateAbbrev": "",
+            "country": "Costa Rica",
+            "population": 53382,
+            "hdi": 0.793,
+            "coordinates": [10.634435046029616, -85.44090495456517]
+        },
+        {
+            "name": "Tamarindo",
+            "state": "Guanacaste",
+            "stateAbbrev": "",
+            "country": "Costa Rica",
+            "population": 6375,
+            "hdi": 0.793,
+            "coordinates": [10.298947758565108, -85.84075624592049]
+        },
+        {
+            "name": "Jacó",
+            "state": "Puntarenas",
+            "stateAbbrev": "",
+            "country": "Costa Rica",
+            "population": 11685,
+            "hdi": 0.787,
+            "coordinates": [9.615175995950718, -84.62889630251198]
+        },
+        {
+            "name": "Puerto Viejo de Talamanca",
+            "state": "Limón",
+            "stateAbbrev": "",
+            "country": "Costa Rica",
+            "population": 10000,
+            "hdi": 0.768,
+            "coordinates": [9.65609242272666, -82.75420547134021]
+        },
+        {
+            "name": "Limón",
+            "state": "Limón",
+            "stateAbbrev": "",
+            "country": "Costa Rica",
+            "population": 98500,
+            "hdi": 0.768,
+            "coordinates": [9.992088432079322, -83.0425505075448]
+        },
+        {
+            "name": "Managua",
+            "state": "Managua",
+            "stateAbbrev": "",
+            "country": "Nicaragua",
+            "population": 1401687,
+            "hdi": 0.768,
+            "coordinates": [12.133283556576448, -86.2306932669227]
+        },
+        {
+            "name": "Estelí",
+            "state": "Estelí",
+            "stateAbbrev": "",
+            "country": "Nicaragua",
+            "population": 131179,
+            "hdi": 0.768,
+            "coordinates": [13.090352074993936, -86.35841910500679]
+        },
+        {
+            "name": "León",
+            "state": "León",
+            "stateAbbrev": "",
+            "country": "Nicaragua",
+            "population": 213718,
+            "hdi": 0.768,
+            "coordinates": [12.434191535208827, -86.88121512864761]
+        },
+        {
+            "name": "Chinandega",
+            "state": "Chinandega",
+            "stateAbbrev": "",
+            "country": "Nicaragua",
+            "population": 137539,
+            "hdi": 0.768,
+            "coordinates": [12.624468120721096, -87.12925831796078]
+        },
+        {
+            "name": "Matagalpa",
+            "state": "Matagalpa",
+            "stateAbbrev": "",
+            "country": "Nicaragua",
+            "population": 169540,
+            "hdi": 0.768,
+            "coordinates": [12.931668635876228, -85.91592061945123]
+        },
+        {
+            "name": "Granada",
+            "state": "Granada",
+            "stateAbbrev": "",
+            "country": "Nicaragua",
+            "population": 134104,
+            "hdi": 0.768,
+            "coordinates": [11.934642914833699, -85.95602308193696]
+        },
+        {
+            "name": "Puerto Cabezas",
+            "state": "Región Autónoma de la Costa Caribe Norte",
+            "stateAbbrev": "",
+            "country": "Nicaragua",
+            "population": 134535,
+            "hdi": 0.768,
+            "coordinates": [14.037592916618074, -83.39461847464355]
+        },
+        {
+            "name": "Los Angeles",
+            "state": "California",
+            "stateAbbrev": "CA",
+            "country": "United States",
+            "population": 12237376,
+            "hdi": 0.93,
+            "coordinates": [34.05613547765359, -118.23462076235008]
+        },
+        {
+            "name": "San Fransisco",
+            "state": "California",
+            "stateAbbrev": "CA",
+            "country": "United States",
+            "population": 4623264,
+            "hdi": 0.93,
+            "coordinates": [37.77596015546383, -122.41757013989037]
+        },
+        {
+            "name": "San Jose",
+            "state": "California",
+            "stateAbbrev": "CA",
+            "country": "United States",
+            "population": 1837446,
+            "hdi": 0.93,
+            "coordinates": [37.3373800302748, -121.88600113307065]
+        },
+        {
+            "name": "Sacramento",
+            "state": "California",
+            "stateAbbrev": "CA",
+            "country": "United States",
+            "population": 2397382,
+            "hdi": 0.93,
+            "coordinates": [38.57959320063111, -121.4947947730383]
+        },
+        {
+            "name": "Portland",
+            "state": "Oregon",
+            "stateAbbrev": "OR",
+            "country": "United States",
+            "population": 2104238,
+            "hdi": 0.93,
+            "coordinates": [45.51483428729584, -122.67782716589947]
+        },
+        {
+            "name": "Seattle",
+            "state": "Washington",
+            "stateAbbrev": "WA",
+            "country": "United States",
+            "population": 3544011,
+            "hdi": 0.93,
+            "coordinates": [47.60603643610282, -122.33329717159876]
+        },
+        {
+            "name": "Juneau",
+            "state": "Alaska",
+            "stateAbbrev": "AK",
+            "country": "United States",
+            "population": 32225,
+            "hdi": 0.93,
+            "coordinates": [58.382525311857556, -134.57958158217477]
+        },
+        {
+            "name": "Anchorage",
+            "state": "Alaska",
+            "stateAbbrev": "AK",
+            "country": "United States",
+            "population": 398807,
+            "hdi": 0.93,
+            "coordinates": [61.21716732818913, -149.89802673461693]
+        },
+        {
+            "name": "Shreveport",
+            "state": "Louisiana",
+            "stateAbbrev": "LA",
+            "country": "United States",
+            "population": 288502,
+            "hdi": 0.87,
+            "coordinates": [32.52554368094709, -93.74940906662684]
+        },
+        {
+            "name": "Lake Charles",
+            "state": "Louisiana",
+            "stateAbbrev": "LA",
+            "country": "United States",
+            "population": 254625,
+            "hdi": 0.87,
+            "coordinates": [30.226668019983975, -93.21765191208445]
+        },
+        {
+            "name": "Houma",
+            "state": "Louisiana",
+            "stateAbbrev": "LA",
+            "country": "United States",
+            "population": 208178,
+            "hdi": 0.87,
+            "coordinates": [29.595328225861575, -90.7200825653244]
+        },
+        {
+            "name": "New Iberia",
+            "state": "Louisiana",
+            "stateAbbrev": "LA",
+            "country": "United States",
+            "population": 28555,
+            "hdi": 0.87,
+            "coordinates": [30.003377370815297, -91.81964124636953]
+        },
+        {
+            "name": "Panama City",
+            "state": "Florida",
+            "stateAbbrev": "FL",
+            "country": "United States",
+            "population": 202236,
+            "hdi": 0.95,
+            "coordinates": [30.15951806102415, -85.66011067858592]
+        },
+        {
+            "name": "Cedar Key",
+            "state": "Florida",
+            "stateAbbrev": "FL",
+            "country": "United States",
+            "population": 687,
+            "hdi": 0.95,
+            "coordinates": [29.138635315925878, -83.03493522469299]
+        },
+        {
+            "name": "Victoria",
+            "state": "Texas",
+            "stateAbbrev": "TX",
+            "country": "United States",
+            "population": 116000,
+            "hdi": 0.94,
+            "coordinates": [28.80559028384547, -97.00384024138458]
+        },
+        {
+            "name": "Fort Worth",
+            "state": "Texas",
+            "stateAbbrev": "TX",
+            "country": "United States",
+            "population": 995049,
+            "hdi": 0.94,
+            "coordinates": [32.75592880400535, -97.33014462736307]
+        },
+        {
+            "name": "Dallas",
+            "state": "Texas",
+            "stateAbbrev": "TX",
+            "country": "United States",
+            "population": 1299524,
+            "hdi": 0.94,
+            "coordinates": [32.77917955736045, -96.79733990020414]
+        },
+        {
+            "name": "Austin",
+            "state": "Texas",
+            "stateAbbrev": "TX",
+            "country": "United States",
+            "population": 1809888,
+            "hdi": 0.94,
+            "coordinates": [30.269506629497485, -97.74299002621034]
+        },
+        {
+            "name": "San Antonio",
+            "state": "Texas",
+            "stateAbbrev": "TX",
+            "country": "United States",
+            "population": 1992868,
+            "hdi": 0.94,
+            "coordinates": [29.426187920546973, -98.49526699693877]
+        },
+        {
+            "name": "Dothan",
+            "state": "Alabama",
+            "stateAbbrev": "AL",
+            "country": "United States",
+            "population": 71072,
+            "hdi": 0.9,
+            "coordinates": [31.22440993337608, -85.3894955676342]
+        },
+        {
+            "name": "Darwin",
+            "state": "Northern Territory",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 132045,
+            "hdi": 0.95,
+            "coordinates": [-12.464349766243151, 130.84461877610968]
+        },
+        {
+            "name": "Kununurra",
+            "state": "Western Australia",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 5308,
+            "hdi": 0.95,
+            "coordinates": [-15.778696365707546, 128.74324574232733]
+        },
+        {
+            "name": "Derby",
+            "state": "Western Australia",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 3325,
+            "hdi": 0.96,
+            "coordinates": [-17.309045944797255, 123.63914792507828]
+        },
+        {
+            "name": "Broome",
+            "state": "Western Australia",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 14660,
+            "hdi": 0.96,
+            "coordinates": [-17.96256835232475, 122.23578062526956]
+        },
+        {
+            "name": "Port Hedland",
+            "state": "",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 16000,
+            "hdi": 0.96,
+            "coordinates": [-20.31034069612214, 118.60839089724934]
+        },
+        {
+            "name": "Bulgarra",
+            "state": "Western Australia",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 2990,
+            "hdi": 0.96,
+            "coordinates": [-20.72861984223426, 116.85886530047935]
+        },
+        {
+            "name": "Karratha",
+            "state": "Western Australia",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 16796,
+            "hdi": 0.96,
+            "coordinates": [-20.735350360782782, 116.8450277728012]
+        },
+        {
+            "name": "Nickol",
+            "state": "Western Australia",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 4938,
+            "hdi": 0.96,
+            "coordinates": [-20.74312222409528, 116.79992985881069]
+        },
+        {
+            "name": "Dampier",
+            "state": "Western Australia",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 1275,
+            "hdi": 0.96,
+            "coordinates": [-20.66215482930306, 116.71042191962118]
+        },
+        {
+            "name": "Exmouth",
+            "state": "Western Australia",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 3205,
+            "hdi": 0.96,
+            "coordinates": [-21.93314584899593, 114.1279938742455]
+        },
+        {
+            "name": "Carnarvon",
+            "state": "Western Australia",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 4879,
+            "hdi": 0.96,
+            "coordinates": [-24.883879017296977, 113.65717138485986]
+        },
+        {
+            "name": "Perth",
+            "state": "Western Australia",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 2067000,
+            "hdi": 0.96,
+            "coordinates": [-31.95130030981305, 115.86124641882081]
+        },
+        {
+            "name": "Townsville",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 202000,
+            "hdi": 0.96,
+            "coordinates": [-19.294634414526666, 146.76192336957467]
+        },
+        {
+            "name": "Cairns",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 175398,
+            "hdi": 0.96,
+            "coordinates": [-16.921107557046028, 145.7703824551883]
+        },
+        {
+            "name": "Flying Fish Cove",
+            "state": "Christmas Island",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 1692,
+            "hdi": 0.95,
+            "coordinates": [-10.473288359959337, 105.65768459895523]
+        },
+        {
+            "name": "Bantam",
+            "state": "Cocos Islands",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 593,
+            "hdi": 0.95,
+            "coordinates": [-12.117639232830966, 96.89612586685773]
+        },
+        {
+            "name": "Brisbane",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 2628083,
+            "hdi": 0.96,
+            "coordinates": [-27.46357948883967, 153.01196268312316]
+        },
+        {
+            "name": "Thursday Island",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 2805,
+            "hdi": 0.96,
+            "coordinates": [-10.580586539937585, 142.22074463298387]
+        },
+        {
+            "name": "Antananarivo",
+            "state": "Analamanga",
+            "stateAbbrev": "",
+            "country": "Madagascar",
+            "population": 2300000,
+            "hdi": 0.50,
+            "coordinates": [-18.915484250027355, 47.519702164753355]
+        },
+        {
+            "name": "Toamasina",
+            "state": "Atsinanana",
+            "stateAbbrev": "",
+            "country": "Madagascar",
+            "population": 325876,
+            "hdi": 0.50,
+            "coordinates": [-18.14327118225965, 49.396310323079724]
+        },
+        {
+            "name": "Antsirabe",
+            "state": "Vakinankaratra",
+            "stateAbbrev": "",
+            "country": "Madagascar",
+            "population": 265018,
+            "hdi": 0.50,
+            "coordinates": [-19.873013549363733, 47.02915072314431]
+        },
+        {
+            "name": "Mahajanga",
+            "state": "Boeny",
+            "stateAbbrev": "",
+            "country": "Madagascar",
+            "population": 265018,
+            "hdi": 0.50,
+            "coordinates": [-15.69330734835761, 46.328314506943194]
+        },
+        {
+            "name": "Fianarantsoa",
+            "state": "Haute Matsiatra",
+            "stateAbbrev": "",
+            "country": "Madagascar",
+            "population": 191776,
+            "hdi": 0.50,
+            "coordinates": [-21.454069926502914, 47.085476131245926]
+        },
+        {
+            "name": "Toliara",
+            "state": "Atsimo-Andrefana",
+            "stateAbbrev": "",
+            "country": "Madagascar",
+            "population": 168755,
+            "hdi": 0.50,
+            "coordinates": [-23.349778665605392, 43.68392727125841]
+        },
+        {
+            "name": "Antsiranana",
+            "state": "Diana Region",
+            "stateAbbrev": "",
+            "country": "Madagascar",
+            "population": 129320,
+            "hdi": 0.50,
+            "coordinates": [-12.321015861486517, 49.29154238955891]
+        },
+        {
+            "name": "Mutsamudu",
+            "state": "Anjouan",
+            "stateAbbrev": "",
+            "country": "Comoros",
+            "population": 25471,
+            "hdi": 0.56,
+            "coordinates": [-12.168785975063042, 44.400293619301586]
+        },
+        {
+            "name": "Moroni",
+            "state": "Grande Comore",
+            "stateAbbrev": "",
+            "country": "Comoros",
+            "population": 111326,
+            "hdi": 0.56,
+            "coordinates": [-11.705154119753656, 43.25198586911118]
+        },
+        {
+            "name": "Fomboni",
+            "state": "Mohéli",
+            "stateAbbrev": "",
+            "country": "Comoros",
+            "population": 18277,
+            "hdi": 0.56,
+            "coordinates": [-12.291374972395985, 43.74318116288566]
+        },
+        {
+            "name": "Mamoudzou",
+            "state": "Mamoudzou",
+            "stateAbbrev": "",
+            "country": "France",
+            "population": 18277,
+            "hdi": 0.77,
+            "coordinates": [-12.779238488703989, 45.230488028212534]
+        },
+        {
+            "name": "Port Mathurin",
+            "state": "Rodrigues",
+            "stateAbbrev": "",
+            "country": "Mauritius",
+            "population": 6000,
+            "hdi": 0.80,
+            "coordinates": [-19.68216107360288, 63.420584370515975]
+        },
+        {
+            "name": "Port Louis",
+            "state": "Port Louis District",
+            "stateAbbrev": "",
+            "country": "Mauritius",
+            "population": 147066,
+            "hdi": 0.80,
+            "coordinates": [-20.161095406876314, 57.496908474336756]
+        },
+        {
+            "name": "Vacoas-Phoenix",
+            "state": "Plaines Wilhems",
+            "stateAbbrev": "",
+            "country": "Mauritius",
+            "population": 115289,
+            "hdi": 0.80,
+            "coordinates": [-20.29809120805455, 57.49492296015027]
+        },
+        {
+            "name": "Beau Bassin-Rose Hill",
+            "state": "Plaines Wilhems",
+            "stateAbbrev": "",
+            "country": "Mauritius",
+            "population": 104610,
+            "hdi": 0.80,
+            "coordinates": [-20.222681025775035, 57.46700398537468]
+        },
+        {
+            "name": "Curepipe",
+            "state": "Plaines Wilhems",
+            "stateAbbrev": "",
+            "country": "Mauritius",
+            "population": 78618,
+            "hdi": 0.80,
+            "coordinates": [-20.31790505737346, 57.52737472952348]
+        },
+        {
+            "name": "Albion",
+            "state": "Black River",
+            "stateAbbrev": "",
+            "country": "Mauritius",
+            "population": 6042,
+            "hdi": 0.80,
+            "coordinates": [-20.207478896449896, 57.40839604302742]
+        },
+        {
+            "name": "Saint-Denis",
+            "state": "Saint-Denis",
+            "stateAbbrev": "",
+            "country": "France",
+            "population": 315080,
+            "hdi": 0.84,
+            "coordinates": [-20.883316822897186, 55.45577126494052]
+        },
+        {
+            "name": "Saint-Paul",
+            "state": "Saint-Paul",
+            "stateAbbrev": "",
+            "country": "France",
+            "population": 105240,
+            "hdi": 0.84,
+            "coordinates": [-21.005900851354497, 55.27554129928257]
+        },
+        {
+            "name": "Kyiv",
+            "state": "Kyiv Oblast",
+            "stateAbbrev": "",
+            "country": "Ukraine",
+            "population": 3475000,
+            "hdi": 0.734,
+            "coordinates": [50.44837716394781, 30.520944047010754]
+        },
+        {
+            "name": "Minsk",
+            "state": "Minsk Oblast",
+            "stateAbbrev": "",
+            "country": "Belarus",
+            "population": 1995471,
+            "hdi": 0.818,
+            "coordinates": [53.896549267004865, 27.55800384153441]
+        },
+        {
+            "name": "Warszawa",
+            "state": "Masovian Voivodeship",
+            "stateAbbrev": "",
+            "country": "Poland",
+            "population": 1863056,
+            "hdi": 0.926,
+            "coordinates": [52.23036380688112, 21.009911646342534]
+        },
+        {
+            "name": "Berlin",
+            "state": "Berlin",
+            "stateAbbrev": "",
+            "country": "Germany",
+            "population": 6144600,
+            "hdi": 0.964,
+            "coordinates": [52.521628012715574, 13.405602790219717]
+        },
+        {
+            "name": "Paris",
+            "state": "Île-de-France",
+            "stateAbbrev": "",
+            "country": "France",
+            "population": 2102650,
+            "hdi": 0.952,
+            "coordinates": [48.85981871064162, 2.340247389311803]
+        },
+        {
+            "name": "Madrid",
+            "state": "Madrid",
+            "stateAbbrev": "",
+            "country": "Spain",
+            "population": 6791667,
+            "hdi": 0.940,
+            "coordinates": [40.424012926684696, -3.704833020194897]
+        },
+        {
+            "name": "Roma",
+            "state": "Lazio",
+            "stateAbbrev": "",
+            "country": "Italy",
+            "population": 4342212,
+            "hdi": 0.930,
+            "coordinates": [41.897616432589764, 12.48113686617188]
+        },
+        {
+            "name": "Napoli",
+            "state": "Campania",
+            "stateAbbrev": "",
+            "country": "Italy",
+            "population": 909048,
+            "hdi": 0.856,
+            "coordinates": [40.85510034964974, 14.270801865357155]
+        },
+        {
+            "name": "Athens",
+            "state": "Attica",
+            "stateAbbrev": "",
+            "country": "Greece",
+            "population": 3638281,
+            "hdi": 0.909,
+            "coordinates": [37.98365712355143, 23.721615669684176]
+        },
+        {
+            "name": "Istanbul",
+            "state": "İstanbul Bölgesi",
+            "stateAbbrev": "",
+            "country": "Türkiye",
+            "population": 15655924,
+            "hdi": 0.867,
+            "coordinates": [41.01228591502703, 28.944418775791114]
+        },
+        {
+            "name": "Mont Lubin",
+            "state": "Rodrigues",
+            "stateAbbrev": "",
+            "country": "Mauritius",
+            "population": 3806,
+            "hdi": 0.80,
+            "coordinates": [-19.704295862905994, 63.44633204528592]
+        },
+        {
+            "name": "Zamboanga City",
+            "state": "Zamboanga del Sur",
+            "stateAbbrev": "",
+            "country": "Philippines",
+            "population": 2100000,
+            "hdi": 0.71,
+            "coordinates": [6.920473384608767, 122.07948354581413]
+        },
+        {
+            "name": "Bacolod",
+            "state": "Western Visayas",
+            "stateAbbrev": "",
+            "country": "Philippines",
+            "population": 1435593,
+            "hdi": 0.71,
+            "coordinates": [10.670518137021729, 122.9500749042732]
+        },
+        {
+            "name": "Dasmariñas",
+            "state": "Cavite",
+            "stateAbbrev": "",
+            "country": "Philippines",
+            "population": 703141,
+            "hdi": 0.71,
+            "coordinates": [14.298932252254005, 120.95896733606209]
+        },
+        {
+            "name": "Batangas City",
+            "state": "Batangas",
+            "stateAbbrev": "",
+            "country": "Philippines",
+            "population": 351417,
+            "hdi": 0.71,
+            "coordinates": [13.75610448693475, 121.05799998972643]
+        },
+        {
+            "name": "Angeles City",
+            "state": "Pampanga",
+            "stateAbbrev": "",
+            "country": "Philippines",
+            "population": 1834563,
+            "hdi": 0.71,
+            "coordinates": [15.144931703923676, 120.58883341879402]
+        },
+        {
+            "name": "Cauayan",
+            "state": "Isabela",
+            "stateAbbrev": "",
+            "country": "Philippines",
+            "population": 143403,
+            "hdi": 0.71,
+            "coordinates": [16.934572680907866, 121.76644236247732]
+        },
+        {
+            "name": "Laoag",
+            "state": "Ilocos Norte",
+            "stateAbbrev": "",
+            "country": "Philippines",
+            "population": 111651,
+            "hdi": 0.71,
+            "coordinates": [15.144931703923676, 120.58883341879402]
+        },
+        {
+            "name": "Itbayat",
+            "state": "Batanes",
+            "stateAbbrev": "",
+            "country": "Philippines",
+            "population": 3128,
+            "hdi": 0.71,
+            "coordinates": [20.783568405441212, 121.84014678698853]
+        },
+        {
+            "name": "Puerto Princesa",
+            "state": "Palawan",
+            "stateAbbrev": "",
+            "country": "Philippines",
+            "population": 307079,
+            "hdi": 0.71,
+            "coordinates": [9.773672538344254, 118.75042578375393]
+        },
+        {
+            "name": "Guangzhou",
+            "state": "Guangdong",
+            "stateAbbrev": "",
+            "country": "China",
+            "population": 26940000,
+            "hdi": 0.8,
+            "coordinates": [23.139143864450507, 113.27442305198295]
+        },
+        {
+            "name": "Haikou",
+            "state": "Guangdong",
+            "stateAbbrev": "",
+            "country": "China",
+            "population": 2250000,
+            "hdi": 0.77,
+            "coordinates": [20.033250554583194, 110.2059727915879]
+        },
+        {
+            "name": "Sanya",
+            "state": "Hainan",
+            "stateAbbrev": "",
+            "country": "China",
+            "population": 1031396,
+            "hdi": 0.77,
+            "coordinates": [18.26596084674439, 109.50784771844455]
+        },
+        {
+            "name": "Danzhou",
+            "state": "Hainan",
+            "stateAbbrev": "",
+            "country": "China",
+            "population": 954294,
+            "hdi": 0.77,
+            "coordinates": [19.714502914944564, 109.21611135064055]
+        },
+        {
+            "name": "Shenzhen",
+            "state": "Guangdong",
+            "stateAbbrev": "",
+            "country": "China",
+            "population": 14678000,
+            "hdi": 0.8,
+            "coordinates": [22.545461902211333, 114.06066515058352]
+        },
+        {
+            "name": "Zhanjiang",
+            "state": "Guangdong",
+            "stateAbbrev": "",
+            "country": "China",
+            "population": 6981236,
+            "hdi": 0.8,
+            "coordinates": [21.27320545436598, 110.36719014839287]
+        },
+        {
+            "name": "Quanzhou",
+            "state": "Fujian",
+            "stateAbbrev": "",
+            "country": "China",
+            "population": 8782285,
+            "hdi": 0.78,
+            "coordinates": [24.87173873838832, 118.67556184214043]
+        },
+        {
+            "name": "Guangzhou",
+            "state": "Guangdong",
+            "stateAbbrev": "",
+            "country": "China",
+            "population": 5877025,
+            "hdi": 0.8,
+            "coordinates": [23.553434692043826, 116.37344055438459]
+        },
+        {
+            "name": "Koror",
+            "state": "Koror",
+            "stateAbbrev": "",
+            "country": "Palau",
+            "population": 11444,
+            "hdi": 0.8,
+            "coordinates": [7.340981401119788, 134.47715367724734]
+        },
+        {
+            "name": "Tamuning",
+            "state": "Guam",
+            "stateAbbrev": "",
+            "country": "United States",
+            "population": 18489,
+            "hdi": 0.9,
+            "coordinates": [13.489217854946569, 144.79045120307342]
+        },
+        {
+            "name": "Dededo",
+            "state": "Guam",
+            "stateAbbrev": "",
+            "country": "United States",
+            "population": 44908,
+            "hdi": 0.9,
+            "coordinates": [13.518120308686528, 144.83950617332798]
+        },
+        {
+            "name": "Saipan",
+            "state": "Northern Mariana Islands",
+            "stateAbbrev": "",
+            "country": "United States",
+            "population": 43385,
+            "hdi": 0.88,
+            "coordinates": [15.154893105560594, 145.7060021479323]
+        },
+        {
+            "name": "Colonia",
+            "state": "Yap State",
+            "stateAbbrev": "",
+            "country": "Micronesia",
+            "population": 3126,
+            "hdi": 0.63,
+            "coordinates": [9.516476258599301, 138.12307181733743]
+        },
+        {
+            "name": "Palikir",
+            "state": "Sokehs",
+            "stateAbbrev": "",
+            "country": "Micronesia",
+            "population": 6647,
+            "hdi": 0.63,
+            "coordinates": [6.9235836553994075, 158.159746684924]
+        },
+        {
+            "name": "Naha",
+            "state": "Okinawa",
+            "stateAbbrev": "",
+            "country": "Japan",
+            "population": 312099,
+            "hdi": 0.95,
+            "coordinates": [26.211033077682544, 127.67625634182154]
+        },
+        {
+            "name": "Ishigaki",
+            "state": "Okinawa",
+            "stateAbbrev": "",
+            "country": "Japan",
+            "population": 47562,
+            "hdi": 0.95,
+            "coordinates": [24.339132029883565, 124.1599707756495]
+        },
+        {
+            "name": "Okinawa",
+            "state": "Okinawa",
+            "stateAbbrev": "",
+            "country": "Japan",
+            "population": 142752,
+            "hdi": 0.95,
+            "coordinates": [26.352455524116333, 127.81041990042557]
+        },
+        {
+            "name": "Amami",
+            "state": "Kagoshima",
+            "stateAbbrev": "",
+            "country": "Japan",
+            "population": 41390,
+            "hdi": 0.95,
+            "coordinates": [28.380220988819968, 129.49591741493504]
+        },
+        {
+            "name": "Weno",
+            "state": "Chuuk State",
+            "stateAbbrev": "",
+            "country": "Micronesia",
+            "population": 13856,
+            "hdi": 0.63,
+            "coordinates": [7.44711836373813, 151.841110882435]
+        },
+        {
+            "name": "Ho Chi Minh City",
+            "state": "Dong nam Bo",
+            "stateAbbrev": "",
+            "country": "Vietnam",
+            "population": 8993093,
+            "hdi": 0.73,
+            "coordinates": [10.82442621227309, 106.62951642884099]
+        },
+        {
+            "name": "Hanoi",
+            "state": "Bac Ninh",
+            "stateAbbrev": "",
+            "country": "Vietnam",
+            "population": 8053663,
+            "hdi": 0.73,
+            "coordinates": [21.026390135468684, 105.83462505256763]
+        },
+        {
+            "name": "Haiphong",
+            "state": "Hai Phong",
+            "stateAbbrev": "",
+            "country": "Vietnam",
+            "population": 2088000,
+            "hdi": 0.73,
+            "coordinates": [20.845608953708954, 106.68690119141569]
+        },
+        {
+            "name": "Can Tho",
+            "state": "Can Tho",
+            "stateAbbrev": "",
+            "country": "Vietnam",
+            "population": 1252400,
+            "hdi": 0.73,
+            "coordinates": [10.040865134888403, 105.77286943586613]
+        },
+        {
+            "name": "Da Nang",
+            "state": "Quang Nam",
+            "stateAbbrev": "",
+            "country": "Vietnam",
+            "population": 1220200,
+            "hdi": 0.73,
+            "coordinates": [16.06712728064691, 108.20170814505603]
+        },
+        {
+            "name": "Bangkok",
+            "state": "Nonthaburi",
+            "stateAbbrev": "",
+            "country": "Thailand",
+            "population": 17400000,
+            "hdi": 0.8,
+            "coordinates": [13.752574220297772, 100.50252314688956]
+        },
+        {
+            "name": "Hat Yai",
+            "state": "Songkhla",
+            "stateAbbrev": "",
+            "country": "Thailand",
+            "population": 404044,
+            "hdi": 0.8,
+            "coordinates": [7.010729402410232, 100.47456205412146]
+        },
+        {
+            "name": "Surat Thani",
+            "state": "Surat Thani",
+            "stateAbbrev": "",
+            "country": "Thailand",
+            "population": 132040,
+            "hdi": 0.8,
+            "coordinates": [9.134351662950984, 99.33434472381346]
+        },
+        {
+            "name": "Chaophraya Surasak",
+            "state": "Chonburi",
+            "stateAbbrev": "",
+            "country": "Thailand",
+            "population": 327172,
+            "hdi": 0.8,
+            "coordinates": [13.101048712159319, 100.91372187775035]
+        },
+        {
+            "name": "Phnom Penh",
+            "state": "Kandal",
+            "stateAbbrev": "",
+            "country": "Cambodia",
+            "population": 2841553,
+            "hdi": 0.6,
+            "coordinates": [11.553147181780398, 104.92411940580277]
+        },
+        {
+            "name": "Yangon",
+            "state": "Yangon",
+            "stateAbbrev": "",
+            "country": "Myanmar",
+            "population": 7360703,
+            "hdi": 0.58,
+            "coordinates": [16.841705692379666, 96.17310191463822]
+        },
+        {
+            "name": "Sri Vijaya Puram",
+            "state": "Adaman and Nicobar Islands",
+            "stateAbbrev": "AN",
+            "country": "India",
+            "population": 140572,
+            "hdi": 0.74,
+            "coordinates": [11.624258287981805, 92.72601598840671]
+        },
+        {
+            "name": "Rangat",
+            "state": "Adaman and Nicobar Islands",
+            "stateAbbrev": "AN",
+            "country": "India",
+            "population": 38824,
+            "hdi": 0.74,
+            "coordinates": [12.506734189983383, 92.913384741034]
+        },
+        {
+            "name": "Kuala Lumpur",
+            "state": "Selangor",
+            "stateAbbrev": "",
+            "country": "Malaysia",
+            "population": 7564000,
+            "hdi": 0.8,
+            "coordinates": [3.159316759858673, 101.67456006171048]
+        },
+        {
+            "name": "Ipoh",
+            "state": "Perak",
+            "stateAbbrev": "",
+            "country": "Malaysia",
+            "population": 1022240,
+            "hdi": 0.8,
+            "coordinates": [4.60125847287994, 101.07946708018184]
+        },
+        {
+            "name": "Kuala Terengganu",
+            "state": "Terengganu",
+            "stateAbbrev": "",
+            "country": "Malaysia",
+            "population": 375242,
+            "hdi": 0.8,
+            "coordinates": [5.327094814138602, 103.13114969713112]
+        },
+        {
+            "name": "George Town",
+            "state": "Penang",
+            "stateAbbrev": "",
+            "country": "Malaysia",
+            "population": 2844214,
+            "hdi": 0.8,
+            "coordinates": [5.432399161139228, 100.32277539278459]
+        },
+        {
+            "name": "Kota Kinabalu",
+            "state": "Sabaha",
+            "stateAbbrev": "",
+            "country": "Malaysia",
+            "population": 731406,
+            "hdi": 0.8,
+            "coordinates": [5.98207602900363, 116.07553387279117]
+        },
+        {
+            "name": "Kuching",
+            "state": "Sarawak",
+            "stateAbbrev": "",
+            "country": "Malaysia",
+            "population": 723854,
+            "hdi": 0.8,
+            "coordinates": [1.5541899061997384, 110.36039252934533]
+        },
+        {
+            "name": "Ternate",
+            "state": "North Maluku",
+            "stateAbbrev": "",
+            "country": "Indonesia",
+            "population": 204920,
+            "hdi": 0.75,
+            "coordinates": [0.7744596913217915, 127.37703092216178]
+        },
+        {
+            "name": "Manado",
+            "state": "North Sulawesi",
+            "stateAbbrev": "",
+            "country": "Indonesia",
+            "population": 458582,
+            "hdi": 0.75,
+            "coordinates": [1.4774298899971199, 124.8408734135852]
+        },
+        {
+            "name": "Bamaga",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 1164,
+            "hdi": 0.96,
+            "coordinates": [-10.892058010840136, 142.38786741016554]
+        },
+        {
+            "name": "Mission River",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 974,
+            "hdi": 0.96,
+            "coordinates": [-12.684005007299662, 141.88808816946263]
+        },
+        {
+            "name": "Dili",
+            "state": "Dili",
+            "stateAbbrev": "",
+            "country": "Timor-Leste",
+            "population": 324296,
+            "hdi": 0.57,
+            "coordinates": [-8.556224207047158, 125.57974619011202]
+        },
+        {
+            "name": "Baucau",
+            "state": "Baucau",
+            "stateAbbrev": "",
+            "country": "Timor-Leste",
+            "population": 14961,
+            "hdi": 0.57,
+            "coordinates": [-8.47288769702044, 126.45697854093386]
+        },
+        {
+            "name": "Port Moresby",
+            "state": "Central Province",
+            "stateAbbrev": "",
+            "country": "Papua New Guinea",
+            "population": 700000,
+            "hdi": 0.73,
+            "coordinates": [-9.477769369249552, 147.1547333494259]
+        },
+        {
+            "name": "Lae",
+            "state": "Morobe",
+            "stateAbbrev": "",
+            "country": "Papua New Guinea",
+            "population": 193000,
+            "hdi": 0.59,
+            "coordinates": [-6.715940723174974, 146.9991553798559]
+        },
+        {
+            "name": "Merauke",
+            "state": "Papua",
+            "stateAbbrev": "",
+            "country": "Indonesia",
+            "population": 102351,
+            "hdi": 0.63,
+            "coordinates": [-8.49788336768434, 140.40410223619304]
+        },
+        {
+            "name": "Rabaul",
+            "state": "East New Britain",
+            "stateAbbrev": "",
+            "country": "Papua New Guinea",
+            "population": 3885,
+            "hdi": 0.60,
+            "coordinates": [-4.200217237888823, 152.1652540725229]
+        },
+        {
+            "name": "Timika",
+            "state": "Papua",
+            "stateAbbrev": "",
+            "country": "Indonesia",
+            "population": 142909,
+            "hdi": 0.63,
+            "coordinates": [-4.544800763455277, 136.89014513192424]
+        },
+        {
+            "name": "Hamilton",
+            "state": "Bermuda",
+            "stateAbbrev": "",
+            "country": "United Kingdom",
+            "population": 63913,
+            "hdi": 0.98,
+            "coordinates": [32.29588929541112, -64.78411432321346]
+        },
+        {
+            "name": "Kaliningrad",
+            "state": "Kaliningrad Oblast",
+            "stateAbbrev": "",
+            "country": "Russia",
+            "population": 489584,
+            "hdi": 0.855,
+            "coordinates": [54.71206028575616, 20.50720013353073]
+        },
+        {
+            "name": "Donetsk",
+            "state": "Donetsk Oblast",
+            "stateAbbrev": "",
+            "country": "Russia/Ukraine",
+            "population": 915442,
+            "hdi": 0.761,
+            "coordinates": [48.01415464697691, 37.801826623620784]
+        },
+        {
+            "name": "Saratov",
+            "state": "Saratov Oblast",
+            "stateAbbrev": "",
+            "country": "Russia",
+            "population": 887365,
+            "hdi": 0.855,
+            "coordinates": [51.555833185759774, 45.99540706443473]
+        },
+        {
+            "name": "Lviv",
+            "state": "Lviv Oblast",
+            "stateAbbrev": "",
+            "country": "Ukraine",
+            "population": 1141191,
+            "hdi": 0.742,
+            "coordinates": [49.83863864978891, 24.023562631553187]
+        },
+        {
+            "name": "Odessa",
+            "state": "Odessa Oblast",
+            "stateAbbrev": "",
+            "country": "Ukraine",
+            "population": 1378490,
+            "hdi": 0.760,
+            "coordinates": [46.47089813105849, 30.72323991768959]
+        },
+        {
+            "name": "Rybinsk",
+            "state": "Yaroslavl Oblast",
+            "stateAbbrev": "",
+            "country": "Russia",
+            "population": 198214,
+            "hdi": 0.858,
+            "coordinates": [58.056463251023864, 38.81329565737822]
+        },
+        {
+            "name": "Riga",
+            "state": "Riga Region",
+            "stateAbbrev": "",
+            "country": "Latvia",
+            "population": 609489,
+            "hdi": 0.879,
+            "coordinates": [56.96266590348731, 24.11327191820825]
+        },
+        {
+            "name": "Sofia",
+            "state": "Yugozapaden Planning Region",
+            "stateAbbrev": "",
+            "country": "Bulgaria",
+            "population": 1667314,
+            "hdi": 0.879,
+            "coordinates": [42.698699608565335, 23.3217325335889]
+        },
+        {
+            "name": "Cairo",
+            "state": "Cairo Governorate",
+            "stateAbbrev": "",
+            "country": "Egypt",
+            "population": 22183000,
+            "hdi": 0.776,
+            "coordinates": [30.045439818634897, 31.23678401200119]
+        },
+        {
+            "name": "Lisbon",
+            "state": "Lisbon",
+            "stateAbbrev": "",
+            "country": "Portugal",
+            "population": 2871133,
+            "hdi": 0.900,
+            "coordinates": [38.72476659052832, -9.144600911234381]
+        },
+        {
+            "name": "Nantes",
+            "state": "Pays de la Loire",
+            "stateAbbrev": "",
+            "country": "France",
+            "population": 997222,
+            "hdi": 0.899,
+            "coordinates": [47.21808528374644, -1.5514496960079491]
+        },
+        {
+            "name": "Santiago de Chile",
+            "state": "Santiago",
+            "stateAbbrev": "",
+            "country": "Chile",
+            "population": 6903479,
+            "hdi": 0.886,
+            "coordinates": [-33.45245866295209, -70.66679411853755]
+        },
+        {
+            "name": "Jayapura",
+            "state": "Papua",
+            "stateAbbrev": "",
+            "country": "Indonesia",
+            "population": 410852,
+            "hdi": 0.801,
+            "coordinates": [-2.591046068934139, 140.67037448998585]
+        },
+        {
+            "name": "Vanimo",
+            "state": "Sandaun Province",
+            "stateAbbrev": "",
+            "country": "Papua New Guinea",
+            "population": 11863,
+            "hdi": 0.518,
+            "coordinates": [-2.687354191312953, 141.30074569884613]
+        },
+        {
+            "name": "Aitape",
+            "state": "Sandaun Province",
+            "stateAbbrev": "",
+            "country": "Papua New Guinea",
+            "population": 18000,
+            "hdi": 0.518,
+            "coordinates": [-3.1374077975774908, 142.34694882376127]
+        },
+        {
+            "name": "Juba",
+            "state": "Central Equatoria",
+            "stateAbbrev": "",
+            "country": "South Sudan",
+            "population": 525953,
+            "hdi": 0.463,
+            "coordinates": [4.851381022820613, 31.583113707991572]
+        },
+        {
+            "name": "Sarmi",
+            "state": "Papua",
+            "stateAbbrev": "",
+            "country": "Indonesia",
+            "population": 14093,
+            "hdi": 0.801,
+            "coordinates": [-1.8533400134877147, 138.74993974993674]
+        },
+        {
+            "name": "Madang",
+            "state": "Madang Province",
+            "stateAbbrev": "",
+            "country": "Papua New Guinea",
+            "population": 29339,
+            "hdi": 0.545,
+            "coordinates": [-5.224510664608352, 145.78835940949742]
+        },
+        {
+            "name": "Wewak",
+            "state": "East Sepik Province",
+            "stateAbbrev": "",
+            "country": "Papua New Guinea",
+            "population": 21792,
+            "hdi": 0.516,
+            "coordinates": [-3.576727987889066, 143.64658342535898]
+        },
+        {
+            "name": "Sorong",
+            "state": "Papua Barat Daya",
+            "stateAbbrev": "",
+            "country": "Indonesia",
+            "population": 118017,
+            "hdi": 0.713,
+            "coordinates": [-0.8770960417597943, 131.25677484108175]
+        },
+        {
+            "name": "Nhulunbuy",
+            "state": "Northern Territory",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 3350,
+            "hdi": 0.94,
+            "coordinates": [-12.184341443250085, 136.78561890764345]
+        },
+        {
+            "name": "Yirrkala",
+            "state": "Northern Territory",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 657,
+            "hdi": 0.94,
+            "coordinates": [-12.252388319225526, 136.89158944948397]
+        },
+        {
+            "name": "Angurugu",
+            "state": "Northern Territory",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 855,
+            "hdi": 0.94,
+            "coordinates": [-13.981471386898283, 136.46078272925538]
+        },
+        {
+            "name": "Ayr",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 8603,
+            "hdi": 0.935,
+            "coordinates": [-13.981471386898283, 136.46078272925538]
+        },
+        {
+            "name": "Bowen",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 11205,
+            "hdi": 0.935,
+            "coordinates": [-20.01362444187456, 148.2449719076568]
+        },
+        {
+            "name": "Mackay",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 84333,
+            "hdi": 0.935,
+            "coordinates": [-21.14360189627352, 149.18662181053074]
+        },
+        {
+            "name": "Andergrove",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 9924,
+            "hdi": 0.935,
+            "coordinates": [-21.097663198196887, 149.18059697205337]
+        },
+        {
+            "name": "Ooralea",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 3691,
+            "hdi": 0.935,
+            "coordinates": [-21.17553285594346, 149.14725254072542]
+        },
+        {
+            "name": "Wonga",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 1042,
+            "hdi": 0.935,
+            "coordinates": [-16.345920777433427, 145.4135441733659]
+        },
+        {
+            "name": "Rocky Point",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 2214,
+            "hdi": 0.935,
+            "coordinates": [-12.625836699894874, 141.88030691168882]
+        },
+        {
+            "name": "Seisia",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 293,
+            "hdi": 0.935,
+            "coordinates": [-10.84851552837621, 142.36820873138893]
+        },
+        {
+            "name": "Umagico",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 394,
+            "hdi": 0.935,
+            "coordinates": [-10.892761246292824, 142.35009934346246]
+        },
+        {
+            "name": "Umagico",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 498,
+            "hdi": 0.935,
+            "coordinates": [-10.906640129896463, 142.3254669063553]
+        },
+        {
+            "name": "Bamaga",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 1186,
+            "hdi": 0.935,
+            "coordinates": [-10.906640129896463, 142.3254669063553]
+        },
+        {
+            "name": "New Mapoon",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 412,
+            "hdi": 0.935,
+            "coordinates": [-10.867343664458854, 142.38416613349352]
+        },
+        {
+            "name": "New Mapoon",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 2805,
+            "hdi": 0.935,
+            "coordinates": [-10.58216454783217, 142.22089823412034]
+        },
+        {
+            "name": "Karumba",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 487,
+            "hdi": 0.935,
+            "coordinates": [-17.48423838336143, 140.84832080752196]
+        },
+        {
+            "name": "Gununa",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 1022,
+            "hdi": 0.935,
+            "coordinates": [-16.665953674396427, 139.1772779398859]
+        },
+        {
+            "name": "Pormpuraaw",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 611,
+            "hdi": 0.935,
+            "coordinates": [-14.899278420085253, 141.62037472516997]
+        },
+        {
+            "name": "Coen",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 320,
+            "hdi": 0.935,
+            "coordinates": [-13.946146921514227, 143.19885828299536]
+        },
+        {
+            "name": "Burketown",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 204,
+            "hdi": 0.935,
+            "coordinates": [-17.742219423421812, 139.54763666268332]
+        },
+        {
+            "name": "Borroloola",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 871,
+            "hdi": 0.935,
+            "coordinates": [-16.070361645636254, 136.30729521179114]
+        },
+        {
+            "name": "Nouméa",
+            "state": "South Province",
+            "stateAbbrev": "",
+            "country": "New Caledonia",
+            "population": 182341,
+            "hdi": 0.813,
+            "coordinates": [-22.27242327470954, 166.4450247666778]
+        },
+        {   
+            "name": "São Paulo",
+            "state": "São Paulo",
+            "stateAbbrev": "SP",
+            "country": "Brazil",
+            "population": 22001801,
+            "hdi": 0.806,
+            "coordinates": [-23.556245904426355, -46.63879805777814]
+        },
+        {
+            "name": "Guarulhos",
+            "state": "São Paulo",
+            "stateAbbrev": "SP",
+            "country": "Brazil",
+            "population": 1291784,
+            "hdi": 0.806,
+            "coordinates": [-23.460195722839305, -46.53176219704209]
+        },
+        {
+            "name": "Rio de Janeiro",
+            "state": "Rio de Janeiro",
+            "stateAbbrev": "RJ",
+            "country": "Brazil",
+            "population": 11616000,
+            "hdi": 0.762,
+            "coordinates": [-22.91681373267145, -43.188248609847584]
+        },
+        {
+            "name": "Salvador",
+            "state": "Bahia",
+            "stateAbbrev": "BA",
+            "country": "Brazil",
+            "population": 3919364,
+            "hdi": 0.691,
+            "coordinates": [-12.977659432791715, -38.503831872384175]
+        },
+        {
+            "name": "Recife",
+            "state": "Pernambuco",
+            "stateAbbrev": "PE",
+            "country": "Brazil",
+            "population": 3743854,
+            "hdi": 0.719,
+            "coordinates": [-8.059939108938458, -34.880203689173186]
+        },
+        {
+            "name": "Belo Horizonte",
+            "state": "Minas Gerais",
+            "stateAbbrev": "MG",
+            "country": "Brazil",
+            "population": 6006837,
+            "hdi": 0.810,
+            "coordinates": [-19.921490220260367, -43.94507621950218]
+        },
+        {
+            "name": "Curitiba",
+            "state": "Paraná",
+            "stateAbbrev": "PR",
+            "country": "Brazil",
+            "population": 3559366,
+            "hdi": 0.769,
+            "coordinates": [-25.427792755575453, -49.264607746361726]
+        },
+        {
+            "name": "Porto Alegre",
+            "state": "Rio Grande do Sul",
+            "stateAbbrev": "RS",
+            "country": "Brazil",
+            "population": 4405769,
+            "hdi": 0.771,
+            "coordinates": [-30.03914370051823, -51.21521063081054]
+        },
+        {
+            "name": "João Pessoa",
+            "state": "Paraíba",
+            "stateAbbrev": "PB",
+            "country": "Brazil",
+            "population": 1290223,
+            "hdi": 0.698,
+            "coordinates": [-7.117332309945435, -34.88289189023406]
+        },
+        {
+            "name": "Milwaukee",
+            "state": "Wisconsin",
+            "stateAbbrev": "WI",
+            "country": "United States",
+            "population": 1306795,
+            "hdi": 0.929,
+            "coordinates": [43.03851124297925, -87.90696724367561]
+        },
+        {
+            "name": "Madison",
+            "state": "Wisconsin",
+            "stateAbbrev": "WI",
+            "country": "United States",
+            "population": 450385,
+            "hdi": 0.929,
+            "coordinates": [43.070933571429386, -89.40184212168657]
+        },
+        {
+            "name": "Eau Claire",
+            "state": "Wisconsin",
+            "stateAbbrev": "WI",
+            "country": "United States",
+            "population": 161151,
+            "hdi": 0.929,
+            "coordinates": [44.81098939992453, -91.49814363369768]
+        },
+        {
+            "name": "Appleton",
+            "state": "Wisconsin",
+            "stateAbbrev": "WI",
+            "country": "United States",
+            "population": 243147,
+            "hdi": 0.929,
+            "coordinates": [44.26193831027456, -88.41532346494157]
+        },
+        {
+            "name": "Green Bay",
+            "state": "Wisconsin",
+            "stateAbbrev": "WI",
+            "country": "United States",
+            "population": 320050,
+            "hdi": 0.929,
+            "coordinates": [44.51398688855982, -88.01263544135585]
+        },
+        {
+            "name": "Chicago",
+            "state": "Illinois",
+            "stateAbbrev": "IL",
+            "country": "United States",
+            "population": 8671746,
+            "hdi": 0.929,
+            "coordinates": [41.87824858280149, -87.62487056840243]
+        },
+        {
+            "name": "Mumbai",
+            "state": "Maharashtra",
+            "stateAbbrev": "MH",
+            "country": "India",
+            "population": 18414288,
+            "hdi": 0.688,
+            "coordinates": [19.06961611538498, 72.87768515558989]
+        },
+        {
+            "name": "Kolkata",
+            "state": "West Bengal",
+            "stateAbbrev": "WB",
+            "country": "India",
+            "population": 15333000,
+            "hdi": 0.688,
+            "coordinates": [22.577791496729795, 88.36784181273538]
+        },
+        {
+            "name": "Chennai",
+            "state": "Tamil Nadu",
+            "stateAbbrev": "TN",
+            "country": "India",
+            "population": 8696010,
+            "hdi": 0.686,
+            "coordinates": [13.084442771976084, 80.27149004097272]
+        },
+        {
+            "name": "Surat",
+            "state": "Gujarat",
+            "stateAbbrev": "GJ",
+            "country": "India",
+            "population": 6934534,
+            "hdi": 0.638,
+            "coordinates": [21.170319581709823, 72.82671681648544]
+        },
+        {
+            "name": "Ahmedabad",
+            "state": "Gujarat",
+            "stateAbbrev": "GJ",
+            "country": "India",
+            "population": 8650605,
+            "hdi": 0.688,
+            "coordinates": [23.028958476643137, 72.57049696175757]
+        },
+        {
+            "name": "Visakhapatnam",
+            "state": "Andhra Pradesh",
+            "stateAbbrev": "AP",
+            "country": "India",
+            "population": 2358412,
+            "hdi": 0.630,
+            "coordinates": [17.679831569557944, 83.21004431923578]
+        },
+        {
+            "name": "Dakha",
+            "state": "Dhaka Division",
+            "stateAbbrev": "",
+            "country": "Bangladesh",
+            "population": 22478168,
+            "hdi": 0.745,
+            "coordinates": [23.801101941335027, 90.40995680773207]
+        },
+        {
+            "name": "Colombo",
+            "state": "Western Province",
+            "stateAbbrev": "",
+            "country": "Sri Lanka",
+            "population": 5648000,
+            "hdi": 0.782,
+            "coordinates": [6.926955225027319, 79.86089533698421]
+        },
+        {
+            "name": "Astana",
+            "state": "Akmola",
+            "stateAbbrev": "",
+            "country": "Kazakhstan",
+            "population": 1550000,
+            "hdi": 0.820,
+            "coordinates": [51.164737804157554, 71.42721102994436]
+        },
+        {
+            "name": "Almaty",
+            "state": "Almaty Region",
+            "stateAbbrev": "",
+            "country": "Kazakhstan",
+            "population": 2249000,
+            "hdi": 0.841,
+            "coordinates": [43.239961118212655, 76.87720863738255]
+        },
+        {
+            "name": "Pavlodar",
+            "state": "Pavlodar Region",
+            "stateAbbrev": "",
+            "country": "Kazakhstan",
+            "population": 343091,
+            "hdi": 0.820,
+            "coordinates": [52.28767762387863, 76.96563479235795]
+        },
+        {
+            "name": "Batticaloa",
+            "state": "Eastern Province",
+            "stateAbbrev": "",
+            "country": "Sri Lanka",
+            "population": 86227,
+            "hdi": 0.782,
+            "coordinates": [7.727391039183916, 81.69522307511953]
+        },
+        {
+            "name": "Trincomalee",
+            "state": "Eastern Province",
+            "stateAbbrev": "",
+            "country": "Sri Lanka",
+            "population": 99135,
+            "hdi": 0.782,
+            "coordinates": [8.589514099512279, 81.21673603723676]
+        },
+        {
+            "name": "Mullaitivu",
+            "state": "Northern Province",
+            "stateAbbrev": "",
+            "country": "Sri Lanka",
+            "population": 28973,
+            "hdi": 0.782,
+            "coordinates": [9.2648464877283, 80.81624295443225]
+        },
+        {
+            "name": "Matara",
+            "state": "Southern Province",
+            "stateAbbrev": "",
+            "country": "Sri Lanka",
+            "population": 68244,
+            "hdi": 0.782,
+            "coordinates": [5.951949170987162, 80.5467936374589]
+        },
+        {
+            "name": "Galle",
+            "state": "Southern Province",
+            "stateAbbrev": "",
+            "country": "Sri Lanka",
+            "population": 93118,
+            "hdi": 0.782,
+            "coordinates": [6.035117602317057, 80.21595079383447]
+        },
+        {
+            "name": "Nagercoil",
+            "state": "Tamil Nadu",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 522759,
+            "hdi": 0.726,
+            "coordinates": [8.182093032322763, 77.42354453653432]
+        },
+        {
+            "name": "Thiruvananthapuram",
+            "state": "Kerala",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 1687406,
+            "hdi": 0.752,
+            "coordinates": [8.515082418146402, 76.93476355205476]
+        },
+        {
+            "name": "Kollam",
+            "state": "Kerala",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 1871086,
+            "hdi": 0.752,
+            "coordinates": [8.888417338354309, 76.60205368811934]
+        },
+        {
+            "name": "Alappuzha",
+            "state": "Kerala",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 240991,
+            "hdi": 0.752,
+            "coordinates": [9.499070729158733, 76.3291977104091]
+        },
+        {
+            "name": "Kochi",
+            "state": "Kerala",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 2119724,
+            "hdi": 0.752,
+            "coordinates": [9.941608199290837, 76.25624909773062]
+        },
+        {
+            "name": "Kozhikode",
+            "state": "Kerala",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 3091984,
+            "hdi": 0.752,
+            "coordinates": [11.258709713140913, 75.779109229831]
+        },
+        {
+            "name": "Kannur",
+            "state": "Kerala",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 1640986,
+            "hdi": 0.752,
+            "coordinates": [11.874050483138745, 75.37007020869815]
+        },
+        {
+            "name": "Mangaluru",
+            "state": "Karnataka",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 724159,
+            "hdi": 0.706,
+            "coordinates": [12.919405765048612, 74.85223355429959]
+        },
+        {
+            "name": "Udupi",
+            "state": "Karnataka",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 436208,
+            "hdi": 0.706,
+            "coordinates": [13.339139732062536, 74.7417888746]
+        },
+        {
+            "name": "Karwar",
+            "state": "Karnataka",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 155213,
+            "hdi": 0.900,
+            "coordinates": [14.814795903742894, 74.13099105442456]
+        },
+        {
+            "name": "Panaji",
+            "state": "Goa",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 114759,
+            "hdi": 0.806,
+            "coordinates": [15.500896958311758, 73.82493729229677]
+        },
+        {
+            "name": "Ratnagiri",
+            "state": "Maharashtra",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 327120,
+            "hdi": 0.688,
+            "coordinates": [16.99498367312096, 73.29629080650574]
+        },
+        {
+            "name": "Nellore",
+            "state": "Andhra Pradesh",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 600849,
+            "hdi": 0.649,
+            "coordinates": [14.446960144372024, 79.99367180489546]
+        },
+        {
+            "name": "Ongole",
+            "state": "Andhra Pradesh",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 228629,
+            "hdi": 0.649,
+            "coordinates": [15.506345147617752, 80.04392613751646]
+        },
+        {
+            "name": "Machilipatnam",
+            "state": "Andhra Pradesh",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 232000,
+            "hdi": 0.649,
+            "coordinates": [16.18534570789183, 81.1337215008665]
+        },
+        {
+            "name": "Kakinada",
+            "state": "Andhra Pradesh",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 443028,
+            "hdi": 0.649,
+            "coordinates": [16.988628427244805, 82.24798306829085]
+        },
+        {
+            "name": "Srikakulam",
+            "state": "Andhra Pradesh",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 228025,
+            "hdi": 0.649,
+            "coordinates": [18.297382613546183, 83.88934942937261]
+        },
+        {
+            "name": "Brahmapur",
+            "state": "Odisha",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 355823,
+            "hdi": 0.649,
+            "coordinates": [19.311212665989895, 84.79583627361168]
+        },
+        {
+            "name": "Puri",
+            "state": "Odisha",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 201026,
+            "hdi": 0.649,
+            "coordinates": [19.805339569476693, 85.82616685711069]
+        },
+        {
+            "name": "Digha",
+            "state": "West Bengal",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 8159,
+            "hdi": 0.674,
+            "coordinates": [21.620568758895853, 87.50456206413395]
+        },
+        {
+            "name": "Chittagong",
+            "state": "Chittagong Division",
+            "stateAbbrev": "",
+            "country": "Bangladesh",
+            "population": 8254000,
+            "hdi": 0.695,
+            "coordinates": [22.36953125816612, 91.83189090455991]
+        },
+        {
+            "name": "Sittwe",
+            "state": "Rakhine State",
+            "stateAbbrev": "",
+            "country": "Myanmar",
+            "population": 100748,
+            "hdi": 0.520,
+            "coordinates": [20.15605753204493, 92.8565384769292]
+        },
+        {
+            "name": "Pathein",
+            "state": "Ayeyarwady Region",
+            "stateAbbrev": "",
+            "country": "Myanmar",
+            "population": 287071,
+            "hdi": 0.530,
+            "coordinates": [16.772272175505275, 94.73387105935497]
+        },
+        {
+            "name": "Lima",
+            "state": "Lima",
+            "stateAbbrev": "",
+            "country": "Peru",
+            "population": 11283287,
+            "hdi": 0.762,
+            "coordinates": [-12.050479591344793, -77.04268503583998] 
+        },
+        {
+            "name": "Paramaribo",
+            "state": "Paramaribo District",
+            "stateAbbrev": "",
+            "country": "Suriname",
+            "population": 240924,
+            "hdi": 0.755,
+            "coordinates": [5.826775234850111, -55.16364086108324]
+        },
+        {
+            "name": "Georgetown",
+            "state": "Demerara-Mahaica",
+            "stateAbbrev": "",
+            "country": "Guyana",
+            "population": 118363,
+            "hdi": 0.733,
+            "coordinates": [6.818450972598773, -58.16104051003025]
+        },
+        {
+            "name": "Caracas",
+            "state": "Greater Caracas",
+            "stateAbbrev": "",
+            "country": "Venezuela",
+            "population": 8956813,
+            "hdi": 0.691,
+            "coordinates": [10.482119198880584, -66.90416869565925]
+        },
+        {
+            "name": "Bogotá",
+            "state": "Distrito Capital",
+            "stateAbbrev": "",
+            "country": "Colombia",
+            "population": 11658211,
+            "hdi": 0.813,
+            "coordinates": [4.710642889012175, -74.07253204291754]
+        },
+        {
+            "name": "Quito",
+            "state": "Pichincha",
+            "stateAbbrev": "",
+            "country": "Ecuador",
+            "population": 2889703,
+            "hdi": 0.740,
+            "coordinates": [-0.18686304248712302, -78.48784406708263]
+        },
+        {
+            "name": "La Paz",
+            "state": "Pedro Domingo Murillo",
+            "stateAbbrev": "",
+            "country": "Bolivia",
+            "population": 2187223,
+            "hdi": 0.827,
+            "coordinates": [-16.49136226890723, -68.1170714504006]
+        },
+        {
+            "name": "Asunción",
+            "state": "Central Department",
+            "stateAbbrev": "",
+            "country": "Paraguay",
+            "population": 2343908,
+            "hdi": 0.717,
+            "coordinates": [-25.290672522958047, -57.62651952026975]
+        },
+        {
+            "name": "Brasília",
+            "state": "Goiás",
+            "stateAbbrev": "",
+            "country": "Brazil",
+            "population": 3548439,
+            "hdi": 0.824,
+            "coordinates": [-15.797817696012158, -47.89139402070513]
+        },
+        {
+            "name": "Montevideo",
+            "state": "Montevideo Department",
+            "stateAbbrev": "",
+            "country": "Uruguay",
+            "population": 1947306,
+            "hdi": 0.841,
+            "coordinates": [-34.90416999391026, -56.18417151188764]
+        },
+        {
+            "name": "Buenos Aires",
+            "state": "Buenos Aires Province",
+            "stateAbbrev": "",
+            "country": "Argentina",
+            "population": 16700000,
+            "hdi": 0.882,
+            "coordinates": [-34.603761042632534, -58.37557162500094]
+        },
+        {
+            "name": "Ottawa",
+            "state": "Ontario",
+            "stateAbbrev": "",
+            "country": "Canada",
+            "population": 1068821,
+            "hdi": 0.943,
+            "coordinates": [45.41987312125745, -75.70100364453285]
+        },
+        {
+            "name": "Nuuk",
+            "state": "Sermersooq",
+            "stateAbbrev": "",
+            "country": "Denmark",
+            "population": 19872,
+            "hdi": 0.786,
+            "coordinates": [64.17442533136914, -51.73744254943277]
+        },
+        {
+            "name": "Oslo",
+            "state": "Akershus",
+            "stateAbbrev": "",
+            "country": "Norway",
+            "population": 1064235,
+            "hdi": 0.980,
+            "coordinates": [59.91306784130575, 10.75192957601088]
+        },
+        {
+            "name": "Stockholm",
+            "state": "Uppland",
+            "stateAbbrev": "",
+            "country": "Sweden",
+            "population": 1617407,
+            "hdi": 0.972,
+            "coordinates": [59.32915626017838, 18.068204344035866]
+        },
+        {
+            "name": "Helsinki",
+            "state": "Uusimaa",
+            "stateAbbrev": "",
+            "country": "Finland",
+            "population": 1582452,
+            "hdi": 0.960,
+            "coordinates": [60.16993306690853, 24.938969097031933]
+        },
+        {
+            "name": "Oulu",
+            "state": "North Ostrobothnia",
+            "stateAbbrev": "",
+            "country": "Finland",
+            "population": 214633,
+            "hdi": 0.925,
+            "coordinates": [65.01245650353938, 25.464921048940052]
+        },
+        {
+            "name": "Talinn",
+            "state": "Harju",
+            "stateAbbrev": "",
+            "country": "Estonia",
+            "population": 614561,
+            "hdi": 0.890,
+            "coordinates": [59.437149351880095, 24.75274840345949]
+        },
+        {
+            "name": "Vilnius",
+            "state": "Vilnius County",
+            "stateAbbrev": "",
+            "country": "Lithuania",
+            "population": 716856,
+            "hdi": 0.875,
+            "coordinates": [54.68710309881783, 25.28083956418272]
+        },
+        {
+            "name": "Copenhagen",
+            "state": "Capital",
+            "stateAbbrev": "",
+            "country": "Denmark",
+            "population": 2135635,
+            "hdi": 0.948,
+            "coordinates": [55.67617292905124, 12.568465981181198]
+        },
+        {
+            "name": "Prague",
+            "state": "Prague",
+            "stateAbbrev": "",
+            "country": "Czechia",
+            "population": 2267817,
+            "hdi": 0.960,
+            "coordinates": [50.075058808631134, 14.437230038401127]
+        },
+        {
+            "name": "Luxembourg City",
+            "state": "Luxembourg",
+            "stateAbbrev": "",
+            "country": "Luxembourg",
+            "population": 134697,
+            "hdi": 0.960,
+            "coordinates": [49.611636569463485, 6.130924316671938]
+        },
+        {
+            "name": "Brussels",
+            "state": "Brussels",
+            "stateAbbrev": "",
+            "country": "Belgium",
+            "population": 2500000,
+            "hdi": 0.953,
+            "coordinates": [50.84763799831582, 4.3572235426635215]
+        },
+        {
+            "name": "Amsterdam",
+            "state": "North Holland",
+            "stateAbbrev": "",
+            "country": "Netherlands",
+            "population": 1459402,
+            "hdi": 0.962,
+            "coordinates": [52.36721034578798, 4.903868580270257]
+        },
+        {
+            "name": "Chișinău",
+            "state": "Chișinău",
+            "stateAbbrev": "",
+            "country": "Moldova",
+            "population": 702300,
+            "hdi": 0.770,
+            "coordinates": [47.01057818851116, 28.863556593059105]
+        },
+        {
+            "name": "Bucharest",
+            "state": "Municipality of Bucharest",
+            "stateAbbrev": "",
+            "country": "Romania",
+            "population": 2304408,
+            "hdi": 0.963,
+            "coordinates": [44.42668825055745, 26.102349900236785]
+        },
+        {
+            "name": "Bratislava",
+            "state": "Bratislava",
+            "stateAbbrev": "",
+            "country": "Slovakia",
+            "population": 728370,
+            "hdi": 0.848,
+            "coordinates": [48.14859587466317, 17.107611182510013]
+        },
+        {
+            "name": "Budapest",
+            "state": "Central Hungary",
+            "stateAbbrev": "",
+            "country": "Hungary",
+            "population": 2999974,
+            "hdi": 0.901,
+            "coordinates": [47.495858501045205, 19.028688402313662]
+        },
+        {
+            "name": "Vienna",
+            "state": "Vienna",
+            "stateAbbrev": "",
+            "country": "Austria",
+            "population": 2223236,
+            "hdi": 0.942,
+            "coordinates": [48.2080467281215, 16.37128199448644]
+        },
+        {
+            "name": "Ljubljana",
+            "state": "Ljubljana",
+            "stateAbbrev": "",
+            "country": "Slovenia",
+            "population": 537893,
+            "hdi": 0.918,
+            "coordinates": [46.056519239224514, 14.50631135993148]
+        },
+        {
+            "name": "Andorra la Vella",
+            "state": "Andorra la Vella",
+            "stateAbbrev": "",
+            "country": "Andorra",
+            "population": 22256,
+            "hdi": 0.884,
+            "coordinates": [42.506271744116425, 1.521900006169507]
+        },
+        {
+            "name": "Monaco",
+            "state": "Monte Carlo",
+            "stateAbbrev": "",
+            "country": "Monaco",
+            "population": 39050,
+            "hdi": 0.956,
+            "coordinates": [43.737545661724575, 7.420500466234483]
+        },
+        {
+            "name": "Vatican City",
+            "state": "Vatican City",
+            "stateAbbrev": "",
+            "country": "Vatican City",
+            "population": 764,
+            "hdi": 0.930,
+            "coordinates": [41.902054604926256, 12.453256566052227]
+        },
+        {
+            "name": "Zagreb",
+            "state": "City of Zagreb",
+            "stateAbbrev": "",
+            "country": "Croatia",
+            "population": 1217160,
+            "hdi": 0.916,
+            "coordinates": [45.81449702160589, 15.98248694241088]
+        },
+        {
+            "name": "Tirana",
+            "state": "Tirana",
+            "stateAbbrev": "",
+            "country": "Albania",
+            "population": 912190,
+            "hdi": 0.796,
+            "coordinates": [41.32694490075906, 19.819568720717978]
+        },
+        {
+            "name": "Sarajevo",
+            "state": "Sarajevo Canton",
+            "stateAbbrev": "",
+            "country": "Bosnia and Herzegovina",
+            "population": 555910,
+            "hdi": 0.780,
+            "coordinates": [43.85629122822496, 18.413185078812766]
+        },
+        {
+            "name": "Belgrade",
+            "state": "Belgrade",
+            "stateAbbrev": "",
+            "country": "Serbia",
+            "population": 1383875,
+            "hdi": 0.805,
+            "coordinates": [44.812016160727296, 20.460276739311308]
+        },
+        {
+            "name": "Podgorica",
+            "state": "Podgorica",
+            "stateAbbrev": "",
+            "country": "Montenegro",
+            "population": 186827,
+            "hdi": 0.832,
+            "coordinates": [42.430539638191604, 19.25963806515481]
+        },
+        {
+            "name": "Pristina",
+            "state": "Pristina",
+            "stateAbbrev": "",
+            "country": "Kosovo",
+            "population": 161751,
+            "hdi": 0.787,
+            "coordinates": [42.66243334038179, 21.163840819089433]
+        },
+        {
+            "name": "Skopje",
+            "state": "Greater Skopje",
+            "stateAbbrev": "",
+            "country": "North Macedonia",
+            "population": 526502,
+            "hdi": 0.770,
+            "coordinates": [41.99810964094033, 21.42572048377871]
+        },
+        {
+            "name": "Arawa",
+            "state": "Autonomous Region of Bougainville",
+            "stateAbbrev": "",
+            "country": "Papua New Guinea",
+            "population": 36443,
+            "hdi": 0.595,
+            "coordinates": [-6.2265316474493515, 155.56564148203643]
+        },
+        {
+            "name": "Honiara",
+            "state": "Honiara City",
+            "stateAbbrev": "",
+            "country": "Solomon Islands",
+            "population": 151538,
+            "hdi": 0.564,
+            "coordinates": [-9.430462016878256, 159.95271003797268]
+        },
+        {
+            "name": "Honiara",
+            "state": "Honiara City",
+            "stateAbbrev": "",
+            "country": "Solomon Islands",
+            "population": 151538,
+            "hdi": 0.564,
+            "coordinates": [-9.430462016878256, 159.95271003797268]
+        },
+        {
+            "name": "Port Vila",
+            "state": "Shefa",
+            "stateAbbrev": "",
+            "country": "Vanuatu",
+            "population": 49034,
+            "hdi": 0.716,
+            "coordinates": [-17.742834956718863, 168.31731115609506]
+        },
+        {
+            "name": "Luganville",
+            "state": "Sanma",
+            "stateAbbrev": "",
+            "country": "Vanuatu",
+            "population": 18062,
+            "hdi": 0.701,
+            "coordinates": [-15.506947121990612, 167.20082236323557]
+        },
+        {
+            "name": "Burnt Pine",
+            "state": "Norfolk Island",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 180,
+            "hdi": 0.958,
+            "coordinates": [-29.030937221058707, 167.9469508373206]
+        },
+        {
+            "name": "Canberra",
+            "state": "Australian Capital Territory",
+            "stateAbbrev": "ACT",
+            "country": "Australia",
+            "population": 466566,
+            "hdi": 0.980,
+            "coordinates": [-35.28038067992005, 149.13004539720512]
+        },
+        {
+            "name": "Wellington",
+            "state": "Wellington",
+            "stateAbbrev": "",
+            "country": "New Zealand",
+            "population": 215200,
+            "hdi": 0.937,
+            "coordinates": [-41.29246523975041, 174.7791800662631]
+        },
+        {
+            "name": "Nuku'alofa",
+            "state": "Tongatapu",
+            "stateAbbrev": "",
+            "country": "Tonga",
+            "population": 74454,
+            "hdi": 0.745,
+            "coordinates": [-21.134645665016052, -175.19966140512997]
+        },
+        {
+            "name": "Suva",
+            "state": "Rewa",
+            "stateAbbrev": "",
+            "country": "Fiji",
+            "population": 185912,
+            "hdi": 0.730,
+            "coordinates": [-18.141007898382124, 178.42325235747356]
+        },
+        {
+            "name": "Funafuti",
+            "state": "Funafuti",
+            "stateAbbrev": "",
+            "country": "Tuvalu",
+            "population": 6320,
+            "hdi": 0.653,
+            "coordinates": [-8.519329300172682, 179.1992742392525]
+        },
+        {
+            "name": "Yaren",
+            "state": "Yaren District",
+            "stateAbbrev": "",
+            "country": "Nauru",
+            "population": 803,
+            "hdi": 0.696,
+            "coordinates": [-0.5458405277794425, 166.9158393730277]
+        },
+        {
+            "name": "Delap-Uliga-Djarrit",
+            "state": "Majuro",
+            "stateAbbrev": "",
+            "country": "Marshall Islands",
+            "population": 20301,
+            "hdi": 0.731,
+            "coordinates": [7.091568011070922, 171.38041254858646]
+        },
+        {
+            "name": "Apia",
+            "state": "Tuamasaga",
+            "stateAbbrev": "",
+            "country": "Samoa",
+            "population": 35974,
+            "hdi": 0.702,
+            "coordinates": [-13.831459015031438, -171.7689283619649]
+        },
+        {
+            "name": "Tarawa",
+            "state": "Tarawa Atoll",
+            "stateAbbrev": "",
+            "country": "Kiribati",
+            "population": 70480,
+            "hdi": 0.628,
+            "coordinates": [1.365707116264312, 173.12656417623975]
+        },
+        {
+            "name": "Hanga Roa",
+            "state": "Easter Island",
+            "stateAbbrev": "",
+            "country": "Chile",
+            "population": 7322,
+            "hdi": 0.855,
+            "coordinates": [-27.149624187842775, -109.43208964302316]
+        },
+        {
+            "name": "Papeete",
+            "state": "French Polynesia",
+            "stateAbbrev": "",
+            "country": "France",
+            "population": 124724,
+            "hdi": 0.903,
+            "coordinates": [-17.53248343358865, -149.567371141096]
+        },
+        {
+            "name": "Louisville",
+            "state": "Kentucky",
+            "stateAbbrev": "KY",
+            "country": "United States",
+            "population": 1025000,
+            "hdi": 0.879,
+            "coordinates": [38.246784300373335, -85.76674972103712]
+        },
+        {
+            "name": "Pyongyang",
+            "state": "Pyongyang",
+            "stateAbbrev": "",
+            "country": "North Korea",
+            "population": 3157538,
+            "hdi": 0.733,
+            "coordinates": [39.03903863298425, 125.76270803775633]
+        },
+        {
+            "name": "Seoul",
+            "state": "Seoul Capital",
+            "stateAbbrev": "",
+            "country": "South Korea",
+            "population": 9659322,
+            "hdi": 0.925,
+            "coordinates": [37.54933602350679, 127.0001936899799]
+        },
+        {
+            "name": "Hiroshima",
+            "state": "Hiroshima",
+            "stateAbbrev": "",
+            "country": "Japan",
+            "population": 1199391,
+            "hdi": 0.925,
+            "coordinates": [34.38115227830128, 132.46091290610423]
+        },
+        {
+            "name": "Vigo",
+            "state": "Galicia",
+            "stateAbbrev": "GA",
+            "country": "Spain",
+            "population": 481268,
+            "hdi": 0.900,
+            "coordinates": [42.24060796718658, -8.721061266108306]
+        },
+        {
+            "name": "Dakar",
+            "state": "Dakar",
+            "stateAbbrev": "",
+            "country": "Senegal",
+            "population": 4004427,
+            "hdi": 0.517,
+            "coordinates": [14.717094509753451, -17.46719822719654]
+        },
+        {
+            "name": "Conakry",
+            "state": "Conakry Region",
+            "stateAbbrev": "",
+            "country": "Guinea",
+            "population": 1660973,
+            "hdi": 0.660,
+            "coordinates": [9.509365606330743, -13.71138793373252]
+        },
+        {
+            "name": "Porto Seguro",
+            "state": "Bahia",
+            "stateAbbrev": "",
+            "country": "Brazil",
+            "population": 168326,
+            "hdi": 0.691,
+            "coordinates": [-16.44426164641625, -39.06553042255882]
+        },
+        {
+            "name": "Hadibu",
+            "state": "Socotra",
+            "stateAbbrev": "",
+            "country": "Yemen",
+            "population": 8545,
+            "hdi": 0.424,
+            "coordinates": [12.650175396136145, 54.019016801258864]
+        },
+        {
+            "name": "Fort Lauderdale",
+            "state": "Florida",
+            "stateAbbrev": "FL",
+            "country": "United States",
+            "population": 183146,
+            "hdi": 0.94,
+            "coordinates": [26.122343477673937, -80.13775918796526]
+        },
+        {
+            "name": "West Palm Beach",
+            "state": "Florida",
+            "stateAbbrev": "FL",
+            "country": "United States",
+            "population": 120932,
+            "hdi": 0.96,
+            "coordinates": [26.71431729936127, -80.05422317452908]
+        },
+        {
+            "name": "Fort Pierce",
+            "state": "Florida",
+            "stateAbbrev": "FL",
+            "country": "United States",
+            "population": 47305,
+            "hdi": 0.76,
+            "coordinates": [27.446486003074465, -80.3257935420629]
+        },
+        {
+            "name": "Daytona Beach",
+            "state": "Florida",
+            "stateAbbrev": "FL",
+            "country": "United States",
+            "population": 77958,
+            "hdi": 0.83,
+            "coordinates": [29.21082609470466, -81.0220785728502]
+        },
+        {
+            "name": "Homestead",
+            "state": "Florida",
+            "stateAbbrev": "FL",
+            "country": "United States",
+            "population": 81562,
+            "hdi": 0.78,
+            "coordinates": [25.467434831101734, -80.47777856036019]
+        },
+        {
+            "name": "Ponta Delgada",
+            "state": "Açores",
+            "stateAbbrev": "",
+            "country": "Portugal",
+            "population": 67287,
+            "hdi": 0.814,
+            "coordinates": [25.467434831101734, -80.47777856036019]
+        }
+    ]
+}
