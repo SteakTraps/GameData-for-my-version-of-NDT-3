@@ -7333,6 +7333,133 @@
             "summitFeet": 1804,
             "magmaType": "Andesite",
             "desc": "The elongated 9 x 23 km Yunaska in the Islands of the Four Mountains group of the Aleutian Islands is comprised of two distinct volcanic centers. The older western center consists of the eroded remnants of four overlapping stratovolcanoes that form a linear, NNE-trending ridge. Cinder cones and fissure-fed lava flows extend from the western end of the complex. The younger eastern complex consists of a shield volcano capped by two nested calderas. The 3.5-km-wide Coats caldera is located within an older 10 x 13 km caldera and contains cinder cones and a lava field. Two areas of youthful lava flows extend down the flank through a gap in the SW caldera rim and cover the upper N flank of the caldera. Vents are found on the flanks of the caldera within a kilometer of its rim. A post-caldera cone is capped by a small summit crater. The eastern center is presumably the source of eruptions recorded since the early 1800s. "
+        },
+        {
+            "name": "Afderà",
+            "vei": 5,
+            "coordinates": [13.088215082336026, 40.85257879990355],
+            "type": "Stratovolcano",
+            "summitFeet": 4104,
+            "magmaType": "Rhyolite",
+            "desc": "Afderà is an isolated rhyolitic stratovolcano located between the Erta Ale, Tat Ali, and Alayta ranges. It lies at the intersection of three fault systems. Young rhyolitic lava domes are aligned N-S at its southern foot. Only a few late-stage satellitic cones are of basaltic composition. Eruptions were reported in 1907 and 1915 (Catalog of Active Volcanoes of the World). However, on morphological grounds it appears to be substantially older than adjacent volcanoes, and the reported eruptions were probably from Alayta volcano to the west. The age of the most recent eruption is not known, although the S-flank rhyolitic lava domes are too young to be dated by the Potassium-Argon method."
+        },
+        {
+            "name": "Tarso Ahon",
+            "vei": 4,
+            "coordinates": [20.53897564137052, 18.290007457986825],
+            "type": "Volcanic Field",
+            "summitFeet": 10909,
+            "magmaType": "Andesite",
+            "desc": "Tarso Ahon is a Volcanic Field in Chad that is part of the Emi Koussi Massif. its composition varries with the reigon of the intrusion is in. the compositions it can erupt is Andesite, Basalt and Rhyolite. The most recent eruptions at the Tarso Ahon volcano is estimated to be in the Quaternary Period that had basaltic eruptive products."
+        },
+        {
+            "name": "Alayta",
+            "vei": 2,
+            "coordinates": [12.88798952886528, 40.573010725237786],
+            "type": "Shield",
+            "summitFeet": 4908,
+            "magmaType": "Trachyte",
+            "desc": "The massive Alayta shield volcano covers an area of 2700 km2 in the western Danakil depression SW of Lake Afrera. A series of very recent craters is aligned along the NNW-trending axis of the basaltic-to-trachytic shield. The lava field, covered by very fresh flows, was erupted from N-S fissures along the east side of the shield volcano and laps up against the western flank of Afderà volcano. Two historical eruptions that were formerly attributed to Afderà actually originated from Alayta. One of those eruptions, in 1907, produced a large lava flow from a SE-flank vent. Fumarolic activity occurs at two locations in the southern part of the complex."
+        },
+        {
+            "name": "Ale Bagu",
+            "vei": 4,
+            "coordinates": [13.51198920097256, 40.63098055486422],
+            "type": "Stratovolcano",
+            "summitFeet": 3241,
+            "magmaType": "Trachyte",
+            "desc": "Ale Bagu, also known as Ummuna, is an elongated stratovolcano located SW of Erta Ale volcano. In contrast to other volcanoes of the Erta Ale Range, it is located SW of the axis of the range, and is mantled by basaltic pyroclastic rocks. Summit craters are elongated along a NNW-SSE trend. The main crater is a steep-walled, 750 x 450 m depression occupied by a steep-sided lava cone that has fed trachytic lava flows over the crater floor. Silicic lavas from the axial regional fissure extend to the NW and SE."
+        },
+        {
+            "name": "Alid",
+            "vei": 5,
+            "coordinates": [14.879995209250087, 39.92000254336147],
+            "type": "Stratovolcano/Caldera",
+            "summitFeet": 2966,
+            "magmaType": "Rhyolite",
+            "desc": "Alid is an isolated, dissected volcano in the central Danakil depression. Elongated in an E-W direction perpendicular to the orientation of the Alid graben, it consists of a structural dome of uplifted sedimentary rocks rising 700 m above the graben floor, which was produced by intrusion of a silicic magma body. The dome is capped by steep-sided basaltic-to-rhyolitic lava flows. Late-stage eruptions during the late Pleistocene ejected rhyolitic pumice. A 2 x 3 km graben cuts the top of the dome, and the crater that produced the Plinian eruption occupies the western third of the summit depression. Vast lava fields of probable Holocene age originating from fissure vents bank up against the flanks to the NW and SE. Small cones and craters that were the source of the flows are localized along NNW-trending fissures. Fumarolic activity continues from broad areas on the northern summit and flank."
+        },
+        {
+            "name": "Ali Mela",
+            "vei": 6,
+            "coordinates": [14.879995209250087, 39.92000254336147],
+            "type": "Caldera",
+            "summitFeet": 3402,
+            "magmaType": "Unknown",
+            "desc": "Ali Mela Ale is included in Dubbi line of volcanoes which decrease in age northward (Mohr et al. 1976). Alimelali is next volcano SE of Oyma, which is dated at 0.5 million years ago (CNR-CNRS 1973)."
+        },
+        {
+            "name": "Alu-Dalafilla",
+            "vei": 3,
+            "coordinates": [14.879995209250087, 39.92000254336147],
+            "type": "Fissure Vents",
+            "summitFeet": 1896,
+            "magmaType": "Basalt",
+            "desc": "The summit region of Alu, ~5 km NW of the Dalafilla stratovolcano, is an ellipsoidal volcanic horst, elongated NNW-SSE, and formed primarily of older basaltic lava flows. Recent fractures along the axis of the Erta Ale range cut the main horst of Alu and areas to the SSE. Fumarolic activity is located on the numerous parallel faults. Fissure vents west of the horst have fed silicic lava flows, and voluminous youthful basaltic lava flows to the east extend north as far as Lake Bakili. Dalafilla, also referred to as Gabuli, is a steep-sided cone that rises 300 m above surrounding lava fields due to extrusion of viscous, silicic lava flows. Basaltic lava flows from regional fissures surround the volcano. Fumarolic activity occurs in the 100-m-wide summit crater and has weathered surrounding lava flows. The first historical eruption of Alu-Dalafilla took place in 2008, when lava flows from vents between the two edifices traveled NE."
+        },
+        {
+            "name": "Aluto",
+            "vei": 6,
+            "coordinates": [7.7700020710538675, 38.77999624924926],
+            "type": "Stratovolcano",
+            "summitFeet": 7661,
+            "magmaType": "Rhyolite",
+            "desc": "Aluto, between lakes Zway and Langano (Mirrga), is a stratovolcano with multiple vents aligned along NNE-SSW and E-W fissures along a narrow graben between the two lakes. This silicic volcanic center lies along the regional Wonji Fault Belt and has produced abundant pumice-flow and pumice-fall deposits, along with lesser rhyolitic lava flows. Obsidian lava flows erupted from craters along the fissures have descended the flanks in all directions. Cinder cones, lava domes, phreatic explosion craters, and thermal springs are structurally controlled. The oldest known eruptions produced the Hulo-Seyno Ignimbrite about 155,000 years ago. The latest eruptions produced obsidian flows and pumice breccias about 2,000 years ago. Eruptive products overlie recent basaltic lava flows to the west. Strong fumarolic activity continues."
+        },
+        {
+            "name": "Ardoukôba",
+            "vei": 1,
+            "coordinates": [11.579996118890827, 42.46998323704651],
+            "type": "Fissure Vents",
+            "summitFeet": 978,
+            "magmaType": "Basalt",
+            "desc": "The Ardoukôba (Asal) Rift in Djibouti, trending NW from the Red Sea, contains a broad area of youthful fissure vents between Lake Asal and the Ghoubbat al Kharab gulf. It is subaerially exposed over 12 km between these two bodies of water and contains numerous basaltic cinder and spatter cones. The silicic centers of Eger Alayta and Asa Aleyta, on the N and S sides, are remnants of a Pleistocene silicic center that has been disrupted and spread apart. Magma-water interaction has produced tuff cones, some of which form islands or are breached by the sea. The most recent lava flows are younger than lake sediments deposited 5,300 years ago. These lavas were thought to have been erupted during the past 3,000 years (Delibrias et al., 1975). The fissure erupted in 1978, producing a small cinder cone and lava flows that covered part of the rift floor near the Red Sea."
+        },
+        {
+            "name": "Asavyo",
+            "vei": 4,
+            "coordinates": [13.097995596774203, 41.59902095984438],
+            "type": "Shield",
+            "summitFeet": 4390,
+            "magmaType": "Rhyobasalt",
+            "desc": "Asavyo, also known as Bara’Ale, is the SW-most of three large silicic stratovolcanoes (along with Mallahle and Nabro) constructed along a NE-SW-trending line in the Danakil horst. A large 12-km-wide caldera truncates the summit. Basaltic lava flows cover the flanks, which merge into the Mogorros plains to the south. Although the age of the volcano is not known precisely, Asavyo was considered to have erupted during last 2,000 years (IAVCEI, 1973). A large post-caldera cone was constructed near the center of the caldera, and smaller pyroclastic cones occur within the caldera and on its flanks."
+        },
+        {
+            "name": "Asie",
+            "vei": 3,
+            "coordinates": [2.963999098554784, 37.10399911034423],
+            "type": "Shield",
+            "summitFeet": 3465,
+            "magmaType": "Unknown",
+            "desc": "The Hawaiian-type Asie shield volcano is the youngest and NE-most of a group of en echelon shields east of Lake Turkana. Asie was constructed during the Pliocene and Pleistocene; late-stage activity formed a series of cones and maars, with the last eruptions occurring about 0.42 million years ago on the NW flank."
+        },
+        {
+            "name": "Ayelu",
+            "vei": 7,
+            "coordinates": [10.081972244384058, 40.70196043879923],
+            "type": "Stratovolcano",
+            "summitFeet": 7037,
+            "magmaType": "Rhyolite",
+            "desc": "Ayelu is a vegetated rhyolitic stratovolcano, located south of the Asbahri plain in the southern Afar region. On its eastern side, 2145-m-high Ayelu is cut by regional faults and is overlain by ignimbrites erupted from Adwa volcano immediately to the east. It was constructed by a series of thick rhyolitic lava flows, creating a higher and steeper-sided volcano than Adwa. Hot springs are located on the western flank."
+        },
+        {
+            "name": "Assab",
+            "vei": 4,
+            "coordinates": [12.95000281898893, 42.43000063205148],
+            "type": "Volcanic Field",
+            "summitFeet": 3238,
+            "magmaType": "Basalt",
+            "desc": "The Assab volcanic field near the Red Sea coast in southern Eritrea forms a spectacular range of basaltic cinder cones and associated lava flows. The massive lava field covers a 55 x 90 km area, and flows reached the Red Sea along a broad front. The vents of the Assab volcanic field, also known as Ado Ale or Ud'ale, were constructed along a broad E-W line that extends to the coastal city of Assab."
+        },
+        {
+            "name": "Azrou",
+            "vei": 5,
+            "coordinates": [33.670000594735676, -5.1699931125078455],
+            "type": "Volcanic Field",
+            "summitFeet": 5856,
+            "magmaType": "Unknown",
+            "desc": "The Azrou volcanic field in the Middle Atlas Range of Morocco covers an area of about 1500 km2."
+        },
         }
     ]
 }
